@@ -1,0 +1,1856 @@
+[
+  {
+    "id": 1,
+    "nom": "Pachyderme",
+    "categories": [
+      0,
+      1,
+      13
+    ],
+    "description": "Personne lourde (Blâme)",
+    "localisation": 1,
+    "image": "",
+    "filiere": 0
+  },
+  {
+    "id": 2,
+    "nom": "Pachyderme sur pachyderme",
+    "categories": [
+      0,
+      1,
+      13
+    ],
+    "description": "Lourdeur devant l'éternel",
+    "localisation": 1,
+    "image": "",
+    "filiere": 48
+  },
+  {
+    "id": 3,
+    "nom": "Pachy retourné",
+    "categories": [
+      0,
+      1,
+      12
+    ],
+    "description": "Nous ne sommes pas lourds. Nous sommes drôles et incompris (Honneur)",
+    "localisation": 1,
+    "image": "",
+    "filiere": 0
+  },
+  {
+    "id": 4,
+    "nom": "Chameau à l'endroit",
+    "categories": [
+      0,
+      1,
+      9
+    ],
+    "description": "Célibataire",
+    "localisation": 1,
+    "image": "",
+    "filiere": 0
+  },
+  {
+    "id": 5,
+    "nom": "Chameau à l'envers",
+    "categories": [
+      0,
+      1,
+      9
+    ],
+    "description": "Cœur pris",
+    "localisation": 1,
+    "image": "",
+    "filiere": 0
+  },
+  {
+    "id": 6,
+    "nom": "Chameau sur le côté",
+    "categories": [
+      0,
+      1,
+      9
+    ],
+    "description": "Indécis",
+    "localisation": 1,
+    "image": "",
+    "filiere": 23
+  },
+  {
+    "id": 7,
+    "nom": "Chameau de travers",
+    "categories": [
+      0,
+      1,
+      17
+    ],
+    "description": "A la flemme de le retourner tout le temps",
+    "localisation": 1,
+    "image": "",
+    "filiere": 0
+  },
+  {
+    "id": 8,
+    "nom": "Cochon à l'endroit",
+    "categories": [
+      0,
+      1,
+      18
+    ],
+    "description": "A intégré / Parrain de faluchage",
+    "localisation": 1,
+    "image": "",
+    "filiere": 0
+  },
+  {
+    "id": 9,
+    "nom": "Cochon à l'envers",
+    "categories": [
+      0,
+      1,
+      18
+    ],
+    "description": "A été intégré / Faluchage",
+    "localisation": 6,
+    "image": "",
+    "filiere": 0
+  },
+  {
+    "id": 10,
+    "nom": "Coq",
+    "categories": [
+      0,
+      2,
+      12
+    ],
+    "description": "Grande gueule sachant l'ouvrir (Honneur)",
+    "localisation": 1,
+    "image": "",
+    "filiere": 0
+  },
+  {
+    "id": 11,
+    "nom": "Coq à l'envers",
+    "categories": [
+      0,
+      2,
+      17
+    ],
+    "description": "Grande gueule ne sachant pas la fermer",
+    "localisation": 1,
+    "image": "",
+    "filiere": 48
+  },
+  {
+    "id": 12,
+    "nom": "Écureuil",
+    "categories": [
+      0,
+      1,
+      16
+    ],
+    "description": "Membre d'une junior entreprise",
+    "localisation": 1,
+    "image": "",
+    "filiere": 0
+  },
+  {
+    "id": 13,
+    "nom": "Écureuil à l'endroit",
+    "categories": [
+      0,
+      1,
+      17
+    ],
+    "description": "Bouffeur de glands",
+    "localisation": 1,
+    "image": "",
+    "filiere": 48
+  },
+  {
+    "id": 14,
+    "nom": "Écureuil à l'envers",
+    "categories": [
+      0,
+      1,
+      17
+    ],
+    "description": "Manque de fairplay",
+    "localisation": 1,
+    "image": "",
+    "filiere": 48
+  },
+  {
+    "id": 15,
+    "nom": "Lapin (retardataire)",
+    "categories": [
+      0,
+      1,
+      17
+    ],
+    "description": "Retardataire",
+    "localisation": 1,
+    "image": "",
+    "filiere": 50
+  },
+  {
+    "id": 16,
+    "nom": "Lapin (culbute)",
+    "categories": [
+      0,
+      1,
+      9
+    ],
+    "description": "Amour de la culbute (décerné par le/la partenaire)",
+    "localisation": 1,
+    "image": "",
+    "filiere": 0
+  },
+  {
+    "id": 17,
+    "nom": "Mammouth",
+    "categories": [
+      0,
+      1,
+      12
+    ],
+    "description": "Gardien des traditions (Grand Honneur)",
+    "localisation": 1,
+    "image": "",
+    "filiere": 0
+  },
+  {
+    "id": 18,
+    "nom": "Nounours",
+    "categories": [
+      0,
+      1,
+      17
+    ],
+    "description": "Gros dormeur",
+    "localisation": 1,
+    "image": "",
+    "filiere": 0
+  },
+  {
+    "id": 19,
+    "nom": "Poule (chaude)",
+    "categories": [
+      0,
+      2,
+      9
+    ],
+    "description": "Personne chaude",
+    "localisation": 1,
+    "image": "",
+    "filiere": 0
+  },
+  {
+    "id": 20,
+    "nom": "Poule (véto)",
+    "categories": [
+      0,
+      2,
+      8
+    ],
+    "description": "Étudiante en école vétérinaire",
+    "localisation": 1,
+    "image": "",
+    "filiere": 11
+  },
+  {
+    "id": 21,
+    "nom": "Poule sans tête",
+    "categories": [
+      0,
+      2,
+      9
+    ],
+    "description": "Chope des moches",
+    "localisation": 1,
+    "image": "",
+    "filiere": 0
+  },
+  {
+    "id": 22,
+    "nom": "Sanglier (vomit)",
+    "categories": [
+      0,
+      1,
+      5
+    ],
+    "description": "Vomit bruyamment",
+    "localisation": 1,
+    "image": "",
+    "filiere": 49
+  },
+  {
+    "id": 23,
+    "nom": "Sanglier (région)",
+    "categories": [
+      0,
+      1,
+      11
+    ],
+    "description": "Ardennais",
+    "localisation": 4,
+    "image": "",
+    "filiere": 0
+  },
+  {
+    "id": 24,
+    "nom": "Singe",
+    "categories": [
+      0,
+      1,
+      13
+    ],
+    "description": "Quémandeur d'insignes et/ou de rubans (Grand Blâme)",
+    "localisation": 1,
+    "image": "",
+    "filiere": 0
+  },
+  {
+    "id": 25,
+    "nom": "Taureau sur satin rose",
+    "categories": [
+      0,
+      1,
+      18
+    ],
+    "description": "Parent d'une fille",
+    "localisation": 1,
+    "image": "",
+    "filiere": 0
+  },
+  {
+    "id": 26,
+    "nom": "Taureau sur satin bleu",
+    "categories": [
+      0,
+      1,
+      18
+    ],
+    "description": "Parent d'un garçon",
+    "localisation": 1,
+    "image": "",
+    "filiere": 0
+  },
+  {
+    "id": 27,
+    "nom": "Tête de Cheval",
+    "categories": [
+      0,
+      1,
+      17
+    ],
+    "description": "Gros bourrin",
+    "localisation": 1,
+    "image": "",
+    "filiere": 0
+  },
+  {
+    "id": 28,
+    "nom": "Abeille",
+    "categories": [
+      0,
+      2,
+      12
+    ],
+    "description": "Remerciement exceptionnel pour toute une vie associative (Grand Honneur)",
+    "localisation": 3,
+    "image": "",
+    "filiere": 0
+  },
+  {
+    "id": 29,
+    "nom": "Aigle",
+    "categories": [
+      0,
+      2,
+      15
+    ],
+    "description": "Amour de l'aviation et/ou Brevet de pilote",
+    "localisation": 1,
+    "image": "",
+    "filiere": 0
+  },
+  {
+    "id": 30,
+    "nom": "Chauve-souris",
+    "categories": [
+      0,
+      2,
+      16
+    ],
+    "description": "Nuit blanche pour motif associatif hors évènement festif",
+    "localisation": 3,
+    "image": "",
+    "filiere": 0
+  },
+  {
+    "id": 31,
+    "nom": "Chouette",
+    "categories": [
+      0,
+      2,
+      17
+    ],
+    "description": "Oiseau de nuit",
+    "localisation": 1,
+    "image": "",
+    "filiere": 0
+  },
+  {
+    "id": 32,
+    "nom": "Chouette Bicéphale",
+    "categories": [
+      0,
+      2,
+      8
+    ],
+    "description": "CPGE Hypokhâgne / Khâgne",
+    "localisation": 0,
+    "image": "",
+    "filiere": 20
+  },
+  {
+    "id": 33,
+    "nom": "Cigale",
+    "categories": [
+      0,
+      2,
+      11
+    ],
+    "description": "Provençal",
+    "localisation": 4,
+    "image": "",
+    "filiere": 0
+  },
+  {
+    "id": 34,
+    "nom": "Cigogne (région)",
+    "categories": [
+      0,
+      2,
+      11
+    ],
+    "description": "Alsacien",
+    "localisation": 4,
+    "image": "",
+    "filiere": 0
+  },
+  {
+    "id": 35,
+    "nom": "Cigogne (parrain)",
+    "categories": [
+      0,
+      2,
+      18
+    ],
+    "description": "Parrain ou Marraine exceptionnel(le) (Remis par le fillot(e))",
+    "localisation": 1,
+    "image": "",
+    "filiere": 0
+  },
+  {
+    "id": 36,
+    "nom": "Papillon",
+    "categories": [
+      0,
+      2,
+      17
+    ],
+    "description": "Troubles de l'attention",
+    "localisation": 1,
+    "image": "",
+    "filiere": 50
+  },
+  {
+    "id": 37,
+    "nom": "Ptérodactyle",
+    "categories": [
+      0,
+      2,
+      9
+    ],
+    "description": "Fornique Bruyamment",
+    "localisation": 1,
+    "image": "",
+    "filiere": 0
+  },
+  {
+    "id": 38,
+    "nom": "Baleine",
+    "categories": [
+      0,
+      3,
+      13
+    ],
+    "description": "Cétacé ! (Seulement quand le grand mollusque en a trop marre du faluchard !)",
+    "localisation": 1,
+    "image": "",
+    "filiere": 0
+  },
+  {
+    "id": 39,
+    "nom": "Homard",
+    "categories": [
+      0,
+      3,
+      17
+    ],
+    "description": "Mène grand train",
+    "localisation": 1,
+    "image": "",
+    "filiere": 0
+  },
+  {
+    "id": 40,
+    "nom": "Homard sur serviette de velours bleu",
+    "categories": [
+      0,
+      3,
+      15
+    ],
+    "description": "Aime bronzer avec un cocktail",
+    "localisation": 1,
+    "image": "",
+    "filiere": 0
+  },
+  {
+    "id": 41,
+    "nom": "Moule (une par année de mandat)",
+    "categories": [
+      0,
+      3,
+      16
+    ],
+    "description": "Vice-Président Étudiant (VPE)",
+    "localisation": 1,
+    "image": "",
+    "filiere": 0
+  },
+  {
+    "id": 42,
+    "nom": "Pingouin",
+    "categories": [
+      0,
+      3,
+      15
+    ],
+    "description": "Amour de la glisse",
+    "localisation": 1,
+    "image": "",
+    "filiere": 10
+  },
+  {
+    "id": 43,
+    "nom": "Poisson",
+    "categories": [
+      0,
+      3,
+      15
+    ],
+    "description": "Amour de la plongée sous-marine",
+    "localisation": 1,
+    "image": "",
+    "filiere": 0
+  },
+  {
+    "id": 44,
+    "nom": "Tête de Sphinx",
+    "categories": [
+      0,
+      4,
+      8
+    ],
+    "description": "Polyglotte (parle couramment au moins 3 langues)",
+    "localisation": 1,
+    "image": "",
+    "filiere": 0
+  },
+  {
+    "id": 45,
+    "nom": "Koala",
+    "categories": [
+      0,
+      1,
+      17
+    ],
+    "description": "Est incapable de comprendre les allusions sexuelles",
+    "localisation": 1,
+    "image": "",
+    "filiere": 11
+  },
+  {
+    "id": 46,
+    "nom": "Loutre",
+    "categories": [
+      0,
+      3,
+      10
+    ],
+    "description": "Amour de la charcuterie",
+    "localisation": 1,
+    "image": "",
+    "filiere": 0
+  },
+  {
+    "id": 47,
+    "nom": "Escargot exposant bouteille de bordeaux",
+    "categories": [
+      0,
+      1,
+      10
+    ],
+    "description": "Amateur de gueuleton",
+    "localisation": 1,
+    "image": "",
+    "filiere": 0
+  },
+  {
+    "id": 48,
+    "nom": "Rhinocéros à l'endroit",
+    "categories": [
+      0,
+      1,
+      9
+    ],
+    "description": "Amour de la sodomie (Active)",
+    "localisation": 1,
+    "image": "",
+    "filiere": 48
+  },
+  {
+    "id": 49,
+    "nom": "Rhinocéros à l'envers",
+    "categories": [
+      0,
+      1,
+      9
+    ],
+    "description": "Amour de la sodomie (Passive)",
+    "localisation": 1,
+    "image": "",
+    "filiere": 48
+  },
+  {
+    "id": 50,
+    "nom": "Mouette sur satin blanc",
+    "categories": [
+      0,
+      2,
+      7
+    ],
+    "description": "Digne danseur·se de chorées",
+    "localisation": 1,
+    "image": "",
+    "filiere": 23
+  },
+  {
+    "id": 51,
+    "nom": "Bacchus",
+    "categories": [
+      5,
+      12
+    ],
+    "description": "Dignité dans l'ivresse (Grand Honneur)",
+    "localisation": 1,
+    "image": "",
+    "filiere": 0
+  },
+  {
+    "id": 52,
+    "nom": "Bacchus troué",
+    "categories": [
+      5,
+      23
+    ],
+    "description": "Ne boit pas d'alcool",
+    "localisation": 1,
+    "image": "",
+    "filiere": 0
+  },
+  {
+    "id": 53,
+    "nom": "Bouteille de Bordeaux",
+    "categories": [
+      5,
+      13
+    ],
+    "description": "Une par cuite certifiée (Blâme)",
+    "localisation": 1,
+    "image": "",
+    "filiere": 0
+  },
+  {
+    "id": 54,
+    "nom": "Bouteille de Bordeaux à l'envers",
+    "categories": [
+      5,
+      23
+    ],
+    "description": "Baptême achevé",
+    "localisation": 1,
+    "image": "",
+    "filiere": 0
+  },
+  {
+    "id": 55,
+    "nom": "Bouteille de Bordeaux sur velours bleu roy",
+    "categories": [
+      5,
+      13
+    ],
+    "description": "A vomi pendant la Marseillaise",
+    "localisation": 1,
+    "image": "",
+    "filiere": 3
+  },
+  {
+    "id": 56,
+    "nom": "Bouteille de Champagne",
+    "categories": [
+      5,
+      13
+    ],
+    "description": "Une par coma éthylique certifié (Grand Blâme)",
+    "localisation": 1,
+    "image": "",
+    "filiere": 0
+  },
+  {
+    "id": 57,
+    "nom": "Chope",
+    "categories": [
+      5,
+      15
+    ],
+    "description": "Amour de la bière",
+    "localisation": 1,
+    "image": "",
+    "filiere": 0
+  },
+  {
+    "id": 58,
+    "nom": "Entonnoir",
+    "categories": [
+      5,
+      13
+    ],
+    "description": "Nuit à l'hôpital pour motif d'ivresse (prise de sang à l'appui)",
+    "localisation": 1,
+    "image": "",
+    "filiere": 0
+  },
+  {
+    "id": 59,
+    "nom": "Grappe de raisin",
+    "categories": [
+      5,
+      21
+    ],
+    "description": "Amour du bon vin",
+    "localisation": 1,
+    "image": "",
+    "filiere": 0
+  },
+  {
+    "id": 60,
+    "nom": "Grappe de raisin sur velours gris",
+    "categories": [
+      5,
+      17
+    ],
+    "description": "Aigris",
+    "localisation": 1,
+    "image": "",
+    "filiere": 0
+  },
+  {
+    "id": 61,
+    "nom": "Taste-vin",
+    "categories": [
+      5,
+      11
+    ],
+    "description": "Bourguignon",
+    "localisation": 4,
+    "image": "",
+    "filiere": 0
+  },
+  {
+    "id": 62,
+    "nom": "Parapluie fermé",
+    "categories": [
+      5,
+      20
+    ],
+    "description": "A vomi dans sa faluche",
+    "localisation": 1,
+    "image": "",
+    "filiere": 0
+  },
+  {
+    "id": 63,
+    "nom": "Parapluie ouvert",
+    "categories": [
+      5,
+      20
+    ],
+    "description": "A vomi dans sa faluche et l'a remise sur sa tête",
+    "localisation": 1,
+    "image": "",
+    "filiere": 0
+  },
+  {
+    "id": 64,
+    "nom": "Parapluie fermé de côté",
+    "categories": [
+      5,
+      20
+    ],
+    "description": "A été victime de jet liquidien",
+    "localisation": 1,
+    "image": "",
+    "filiere": 0
+  },
+  {
+    "id": 65,
+    "nom": "Zéro",
+    "categories": [
+      5,
+      13,
+      19
+    ],
+    "description": "A vomi honteusement (Blâme)",
+    "localisation": 1,
+    "image": "",
+    "filiere": 0
+  },
+  {
+    "id": 66,
+    "nom": "Caducée Médecine",
+    "categories": [
+      6,
+      8
+    ],
+    "description": "Emblème Médecine (sur velours rouge)",
+    "localisation": 0,
+    "image": "",
+    "filiere": 1
+  },
+  {
+    "id": 67,
+    "nom": "Caducée Infirmier",
+    "categories": [
+      6,
+      8
+    ],
+    "description": "Emblème Soins infirmiers (sur velours rose)",
+    "localisation": 0,
+    "image": "",
+    "filiere": 6
+  },
+  {
+    "id": 68,
+    "nom": "Caducée sur Coupe",
+    "categories": [
+      6,
+      8
+    ],
+    "description": "Emblème Pharmacie (sur velours vert)",
+    "localisation": 0,
+    "image": "",
+    "filiere": 7
+  },
+  {
+    "id": 69,
+    "nom": "Molaire",
+    "categories": [
+      6,
+      8
+    ],
+    "description": "Emblème Chirurgie Dentaire (sur velours bordeaux)",
+    "localisation": 0,
+    "image": "",
+    "filiere": 2
+  },
+  {
+    "id": 70,
+    "nom": "Os Sphénoïde",
+    "categories": [
+      6,
+      8
+    ],
+    "description": "Emblème Ostéopathie (sur velours bleu Roy)",
+    "localisation": 0,
+    "image": "",
+    "filiere": 3
+  },
+  {
+    "id": 71,
+    "nom": "Croix d'ankh",
+    "categories": [
+      6,
+      8,
+      22
+    ],
+    "description": "Emblème Sage-Femme (sur velours fuchsia)",
+    "localisation": 0,
+    "image": "",
+    "filiere": 10
+  },
+  {
+    "id": 72,
+    "nom": "Tête de mort sur fémurs croisés",
+    "categories": [
+      6,
+      22
+    ],
+    "description": "Emblème PASS/LASS (sur velours marron)",
+    "localisation": 0,
+    "image": "",
+    "filiere": 8
+  },
+  {
+    "id": 73,
+    "nom": "Caducée Mercure",
+    "categories": [
+      6,
+      8
+    ],
+    "description": "Emblème Kiné (sur velours rose) / ECS/ECE (CPGE) / Sciences Économiques",
+    "localisation": 0,
+    "image": "",
+    "filiere": 4
+  },
+  {
+    "id": 74,
+    "nom": "Faux",
+    "categories": [
+      6,
+      23
+    ],
+    "description": "Passage de vie à trépas pendant un service hospitalier",
+    "localisation": 1,
+    "image": "",
+    "filiere": 0
+  },
+  {
+    "id": 75,
+    "nom": "Squelette à l'endroit",
+    "categories": [
+      6,
+      8
+    ],
+    "description": "Amour de l'anatomie en tant que matière",
+    "localisation": 1,
+    "image": "",
+    "filiere": 0
+  },
+  {
+    "id": 76,
+    "nom": "Squelette à l'envers jambes écartées",
+    "categories": [
+      6,
+      9
+    ],
+    "description": "Amour de l'anatomie féminine",
+    "localisation": 1,
+    "image": "",
+    "filiere": 0
+  },
+  {
+    "id": 77,
+    "nom": "Squelette à l'envers jambes serrées",
+    "categories": [
+      6,
+      9
+    ],
+    "description": "Amour de l'anatomie masculine",
+    "localisation": 1,
+    "image": "",
+    "filiere": 0
+  },
+  {
+    "id": 78,
+    "nom": "Squelette à l'endroit jambes écartées sur velours rose",
+    "categories": [
+      6,
+      7
+    ],
+    "description": "Digne danseur de chorée",
+    "localisation": 1,
+    "image": "",
+    "filiere": 5
+  },
+  {
+    "id": 79,
+    "nom": "Bébé",
+    "categories": [
+      6,
+      18
+    ],
+    "description": "Spé pédiatrie",
+    "localisation": 1,
+    "image": "",
+    "filiere": 1
+  },
+  {
+    "id": 80,
+    "nom": "Carotte",
+    "categories": [
+      6,
+      9
+    ],
+    "description": "Flirt ou coucherie avec un prof",
+    "localisation": 1,
+    "image": "",
+    "filiere": 1
+  },
+  {
+    "id": 81,
+    "nom": "Laryngoscope doré",
+    "categories": [
+      6,
+      12
+    ],
+    "description": "A participé à l'effort de guerre pendant la crise sanitaire (en l'honneur de Pédirurale)",
+    "localisation": 1,
+    "image": "",
+    "filiere": 0
+  },
+  {
+    "id": 82,
+    "nom": "Clé de sol",
+    "categories": [
+      7,
+      12
+    ],
+    "description": "Digne chanteur de paillardes (Grand Honneur)",
+    "localisation": 1,
+    "image": "",
+    "filiere": 0
+  },
+  {
+    "id": 83,
+    "nom": "Clé de sol sur circulaire",
+    "categories": [
+      7,
+      12
+    ],
+    "description": "Goliard (Grand Honneur)",
+    "localisation": 0,
+    "image": "",
+    "filiere": 23
+  },
+  {
+    "id": 84,
+    "nom": "Lyre",
+    "categories": [
+      7,
+      15
+    ],
+    "description": "Amour de la musique",
+    "localisation": 1,
+    "image": "",
+    "filiere": 0
+  },
+  {
+    "id": 85,
+    "nom": "Lyre sur velours rose",
+    "categories": [
+      7,
+      23
+    ],
+    "description": "A créé sa chanson de baptême",
+    "localisation": 1,
+    "image": "",
+    "filiere": 0
+  },
+  {
+    "id": 86,
+    "nom": "Masque de Comédie",
+    "categories": [
+      7,
+      15
+    ],
+    "description": "Amour du théâtre et des arts de la scène",
+    "localisation": 1,
+    "image": "",
+    "filiere": 0
+  },
+  {
+    "id": 87,
+    "nom": "Palette et Pinceau",
+    "categories": [
+      7,
+      15
+    ],
+    "description": "Amour de l'Art",
+    "localisation": 1,
+    "image": "",
+    "filiere": 0
+  },
+  {
+    "id": 88,
+    "nom": "Nounours sur Lyre",
+    "categories": [
+      0,
+      7
+    ],
+    "description": "S'est endormi devant les caissons",
+    "localisation": 1,
+    "image": "",
+    "filiere": 23
+  },
+  {
+    "id": 89,
+    "nom": "Balance sur infini",
+    "categories": [
+      9,
+      23
+    ],
+    "description": "Pacsé(e) (à l'initiative de NouvLStar)",
+    "localisation": 1,
+    "image": "",
+    "filiere": 0
+  },
+  {
+    "id": 90,
+    "nom": "Cupidon",
+    "categories": [
+      9,
+      23
+    ],
+    "description": "Fiancé(e)",
+    "localisation": 1,
+    "image": "",
+    "filiere": 0
+  },
+  {
+    "id": 91,
+    "nom": "Pendu",
+    "categories": [
+      9,
+      23
+    ],
+    "description": "Marié(e)",
+    "localisation": 1,
+    "image": "",
+    "filiere": 0
+  },
+  {
+    "id": 92,
+    "nom": "Épée",
+    "categories": [
+      9,
+      23
+    ],
+    "description": "Fin baiseur",
+    "localisation": 1,
+    "image": "",
+    "filiere": 0
+  },
+  {
+    "id": 93,
+    "nom": "Flèche",
+    "categories": [
+      9,
+      23
+    ],
+    "description": "Précoce",
+    "localisation": 1,
+    "image": "",
+    "filiere": 0
+  },
+  {
+    "id": 94,
+    "nom": "Feuille de vigne",
+    "categories": [
+      9,
+      21
+    ],
+    "description": "Perte de la virginité masculine pendant la vie falucharde",
+    "localisation": 1,
+    "image": "",
+    "filiere": 0
+  },
+  {
+    "id": 95,
+    "nom": "Feuille de vigne sur satin blanc",
+    "categories": [
+      9,
+      21
+    ],
+    "description": "A été baptisé(e) à la Feyssine",
+    "localisation": 1,
+    "image": "",
+    "filiere": 23
+  },
+  {
+    "id": 96,
+    "nom": "Lime",
+    "categories": [
+      9,
+      23
+    ],
+    "description": "Acte laborieux / Gros Baiseur",
+    "localisation": 1,
+    "image": "",
+    "filiere": 0
+  },
+  {
+    "id": 97,
+    "nom": "Orchidée",
+    "categories": [
+      9,
+      21
+    ],
+    "description": "Fine baiseuse",
+    "localisation": 1,
+    "image": "",
+    "filiere": 0
+  },
+  {
+    "id": 98,
+    "nom": "Pensée",
+    "categories": [
+      9,
+      21
+    ],
+    "description": "Fine baiseuse",
+    "localisation": 1,
+    "image": "",
+    "filiere": 0
+  },
+  {
+    "id": 99,
+    "nom": "Rose",
+    "categories": [
+      9,
+      21
+    ],
+    "description": "Perte de la virginité féminine pendant la vie falucharde",
+    "localisation": 1,
+    "image": "",
+    "filiere": 0
+  },
+  {
+    "id": 100,
+    "nom": "Priape barré d'un zéro",
+    "categories": [
+      9,
+      23
+    ],
+    "description": "Amateur de demi-molle en fin de soirée",
+    "localisation": 1,
+    "image": "",
+    "filiere": 7
+  },
+  {
+    "id": 101,
+    "nom": "69",
+    "categories": [
+      9,
+      19
+    ],
+    "description": "Grand faiseur de Jacques Mayol",
+    "localisation": 1,
+    "image": "",
+    "filiere": 0
+  },
+  {
+    "id": 102,
+    "nom": "Lacet de cuir",
+    "categories": [
+      9,
+      20
+    ],
+    "description": "Sado-Maso (trouve son origine à l'AE2L)",
+    "localisation": 1,
+    "image": "",
+    "filiere": 0
+  },
+  {
+    "id": 103,
+    "nom": "Fourchette",
+    "categories": [
+      10,
+      15
+    ],
+    "description": "Fin gourmet",
+    "localisation": 1,
+    "image": "",
+    "filiere": 0
+  },
+  {
+    "id": 104,
+    "nom": "Fourchette sur ruban bleu",
+    "categories": [
+      10,
+      12
+    ],
+    "description": "Cordon bleu (Honneur)",
+    "localisation": 1,
+    "image": "",
+    "filiere": 0
+  },
+  {
+    "id": 105,
+    "nom": "Fourchettes croisées",
+    "categories": [
+      10,
+      17
+    ],
+    "description": "Bouffe comme un gros porc",
+    "localisation": 1,
+    "image": "",
+    "filiere": 0
+  },
+  {
+    "id": 106,
+    "nom": "Épi de blé",
+    "categories": [
+      10,
+      21,
+      17
+    ],
+    "description": "Radin",
+    "localisation": 1,
+    "image": "",
+    "filiere": 0
+  },
+  {
+    "id": 107,
+    "nom": "Épi de blé et faucille",
+    "categories": [
+      10,
+      21,
+      17
+    ],
+    "description": "Chanceux aux examens",
+    "localisation": 1,
+    "image": "",
+    "filiere": 0
+  },
+  {
+    "id": 108,
+    "nom": "Globe",
+    "categories": [
+      11,
+      15
+    ],
+    "description": "Amour du voyage",
+    "localisation": 1,
+    "image": "",
+    "filiere": 0
+  },
+  {
+    "id": 109,
+    "nom": "Globe sur velours rose",
+    "categories": [
+      11,
+      12
+    ],
+    "description": "Est parti pour un projet humanitaire",
+    "localisation": 1,
+    "image": "",
+    "filiere": 0
+  },
+  {
+    "id": 110,
+    "nom": "Chardon",
+    "categories": [
+      11,
+      21
+    ],
+    "description": "Lorrain",
+    "localisation": 4,
+    "image": "",
+    "filiere": 0
+  },
+  {
+    "id": 111,
+    "nom": "Croix Occitane",
+    "categories": [
+      11,
+      22
+    ],
+    "description": "Occitan",
+    "localisation": 4,
+    "image": "",
+    "filiere": 0
+  },
+  {
+    "id": 112,
+    "nom": "Dauphin",
+    "categories": [
+      11,
+      3
+    ],
+    "description": "Dauphinois",
+    "localisation": 4,
+    "image": "",
+    "filiere": 0
+  },
+  {
+    "id": 113,
+    "nom": "Houe",
+    "categories": [
+      11,
+      20
+    ],
+    "description": "Limousin",
+    "localisation": 4,
+    "image": "",
+    "filiere": 0
+  },
+  {
+    "id": 114,
+    "nom": "Lion passant ou léopardé",
+    "categories": [
+      11,
+      0
+    ],
+    "description": "Normand",
+    "localisation": 4,
+    "image": "",
+    "filiere": 0
+  },
+  {
+    "id": 115,
+    "nom": "Lion rampant",
+    "categories": [
+      11,
+      0
+    ],
+    "description": "Lyonnais",
+    "localisation": 4,
+    "image": "",
+    "filiere": 0
+  },
+  {
+    "id": 116,
+    "nom": "Pic d'Hermine",
+    "categories": [
+      11,
+      21
+    ],
+    "description": "Breton",
+    "localisation": 4,
+    "image": "",
+    "filiere": 0
+  },
+  {
+    "id": 117,
+    "nom": "Poulet",
+    "categories": [
+      11,
+      0
+    ],
+    "description": "Bressan",
+    "localisation": 4,
+    "image": "",
+    "filiere": 0
+  },
+  {
+    "id": 118,
+    "nom": "Sabot",
+    "categories": [
+      11,
+      20
+    ],
+    "description": "Étudiant Breton monté à Paris",
+    "localisation": 4,
+    "image": "",
+    "filiere": 0
+  },
+  {
+    "id": 119,
+    "nom": "Soulier catalan",
+    "categories": [
+      11,
+      20
+    ],
+    "description": "Catalan",
+    "localisation": 4,
+    "image": "",
+    "filiere": 0
+  },
+  {
+    "id": 120,
+    "nom": "Hache",
+    "categories": [
+      12,
+      20
+    ],
+    "description": "A ramené un trophée digne de ce nom (Honneur)",
+    "localisation": 1,
+    "image": "",
+    "filiere": 0
+  },
+  {
+    "id": 121,
+    "nom": "D (D d'or)",
+    "categories": [
+      12,
+      19
+    ],
+    "description": "Dévotion (Honneur)",
+    "localisation": 0,
+    "image": "",
+    "filiere": 23
+  },
+  {
+    "id": 122,
+    "nom": "Simple palme",
+    "categories": [
+      12,
+      21
+    ],
+    "description": "Remerciement pour un travail fourni (Honneur)",
+    "localisation": 3,
+    "image": "",
+    "filiere": 0
+  },
+  {
+    "id": 123,
+    "nom": "Simple palme sur ruban blanc",
+    "categories": [
+      12,
+      21
+    ],
+    "description": "Remerciement pour investissement dans la filière (Honneur)",
+    "localisation": 0,
+    "image": "",
+    "filiere": 23
+  },
+  {
+    "id": 124,
+    "nom": "Double palme",
+    "categories": [
+      12,
+      21
+    ],
+    "description": "Remerciement pour le travail d'une année (Honneur)",
+    "localisation": 3,
+    "image": "",
+    "filiere": 0
+  },
+  {
+    "id": 125,
+    "nom": "Plume sur livre ouvert",
+    "categories": [
+      12,
+      8
+    ],
+    "description": "Digne présentateur d'étudiants (Grand Honneur)",
+    "localisation": 1,
+    "image": "",
+    "filiere": 0
+  },
+  {
+    "id": 126,
+    "nom": "Lettres GD",
+    "categories": [
+      12,
+      19
+    ],
+    "description": "Grand Délateur (Honneur)",
+    "localisation": 1,
+    "image": "",
+    "filiere": 0
+  },
+  {
+    "id": 127,
+    "nom": "Trousseau de clefs sur circulaire",
+    "categories": [
+      12,
+      20
+    ],
+    "description": "Gardien des traditions (Grand Honneur)",
+    "localisation": 0,
+    "image": "",
+    "filiere": 23
+  },
+  {
+    "id": 128,
+    "nom": "Truelle d'or",
+    "categories": [
+      12,
+      20
+    ],
+    "description": "A construit sa maison tout seul (en l'honneur de Miguel)",
+    "localisation": 1,
+    "image": "",
+    "filiere": 0
+  },
+  {
+    "id": 129,
+    "nom": "Épingle à nourrice",
+    "categories": [
+      13,
+      20
+    ],
+    "description": "Insulte au rôle de croix (Blâme)",
+    "localisation": 1,
+    "image": "",
+    "filiere": 0
+  },
+  {
+    "id": 130,
+    "nom": "Paire de Ciseaux",
+    "categories": [
+      13,
+      20
+    ],
+    "description": "N'a pas cousu ses rubans seul (Blâme)",
+    "localisation": 1,
+    "image": "",
+    "filiere": 0
+  },
+  {
+    "id": 131,
+    "nom": "Balance",
+    "categories": [
+      13,
+      20
+    ],
+    "description": "Colporteur de ragots (Blâme)",
+    "localisation": 1,
+    "image": "",
+    "filiere": 0
+  },
+  {
+    "id": 132,
+    "nom": "L0 (petit L + zéro)",
+    "categories": [
+      13,
+      19
+    ],
+    "description": "Forceur.se : non-respect des limites d'autrui (Blâme)",
+    "localisation": 1,
+    "image": "",
+    "filiere": 50
+  },
+  {
+    "id": 133,
+    "nom": "M",
+    "categories": [
+      13,
+      19
+    ],
+    "description": "Misère, décerné à tout pessimiste et casse bonbon notoire",
+    "localisation": 1,
+    "image": "",
+    "filiere": 0
+  },
+  {
+    "id": 134,
+    "nom": "N d'or",
+    "categories": [
+      13,
+      19
+    ],
+    "description": "Nul à chier",
+    "localisation": 0,
+    "image": "",
+    "filiere": 23
+  },
+  {
+    "id": 135,
+    "nom": "B d'or (Blum d'or)",
+    "categories": [
+      13,
+      19
+    ],
+    "description": "A fait quelque chose de sale",
+    "localisation": 1,
+    "image": "",
+    "filiere": 48
+  },
+  {
+    "id": 136,
+    "nom": "V d'or",
+    "categories": [
+      13,
+      19
+    ],
+    "description": "S'est pris un vent mémorable après avoir sérieusement chauffé une personne",
+    "localisation": 1,
+    "image": "",
+    "filiere": 0
+  },
+  {
+    "id": 137,
+    "nom": "69 de CPE",
+    "categories": [
+      13,
+      19
+    ],
+    "description": "69 de CPE (Grand Blâme)",
+    "localisation": 1,
+    "image": "",
+    "filiere": 0
+  },
+  {
+    "id": 138,
+    "nom": "Ancre",
+    "categories": [
+      14,
+      15
+    ],
+    "description": "Amour de la navigation et/ou Permis bateau",
+    "localisation": 1,
+    "image": "",
+    "filiere": 0
+  },
+  {
+    "id": 139,
+    "nom": "Ancre à l'envers",
+    "categories": [
+      14,
+      18
+    ],
+    "description": "Protégé(e) (en l'honneur de BridOuz^102)",
+    "localisation": 1,
+    "image": "",
+    "filiere": 0
+  },
+  {
+    "id": 140,
+    "nom": "Ancre (sur nœud de cérémonie)",
+    "categories": [
+      14,
+      16
+    ],
+    "description": "Participation aux I5",
+    "localisation": 5,
+    "image": "",
+    "filiere": 0
+  },
+  {
+    "id": 141,
+    "nom": "Ancre sur velours bleu",
+    "categories": [
+      14,
+      17
+    ],
+    "description": "Coule (se prononce cool s'écrit c00l)",
+    "localisation": 1,
+    "image": "",
+    "filiere": 0
+  },
+  {
+    "id": 142,
+    "nom": "Volant",
+    "categories": [
+      14,
+      12
+    ],
+    "description": "Conducteur de fin de soirée",
+    "localisation": 1,
+    "image": "",
+    "filiere": 0
+  },
+  {
+    "id": 143,
+    "nom": "Vélo (en partie personnelle)",
+    "categories": [
+      14,
+      15
+    ],
+    "description": "Participation à la course des 24h de l'INSA / Experte en col",
+    "localisation": 1,
+    "image": "",
+    "filiere": 10
+  },
+  {
+    "id": 144,
+    "nom": "Vélo (sur ruban d'asso)",
+    "categories": [
+      14,
+      16
+    ],
+    "description": "Organisation de la course des 24h de l'INSA",
+    "localisation": 3,
+    "image": "",
+    "filiere": 45
+  },
+  {
+    "id": 145,
+    "nom": "Ballon de foot à l'endroit",
+    "categories": [
+      15,
+      20
+    ],
+    "description": "Amour du foot",
+    "localisation": 1,
+    "image": "",
+    "filiere": 0
+  },
+  {
+    "id": 146,
+    "nom": "Ballon de foot à l'envers",
+    "categories": [
+      15,
+      17
+    ],
+    "description": "Gros beauf / Beauf devant l'Éternel",
+    "localisation": 1,
+    "image": "",
+    "filiere": 0
+  },
+  {
+    "id": 147,
+    "nom": "Cor de chasse",
+    "categories": [
+      15,
+      20
+    ],
+    "description": "Grand(e) chasseur(euse) devant l'Éternel",
+    "localisation": 1,
+    "image": "",
+    "filiere": 0
+  },
+  {
+    "id": 148,
+    "nom": "Ski",
+    "categories": [
+      15,
+      20
+    ],
+    "description": "Amour de la montagne",
+    "localisation": 1,
+    "image": "",
+    "filiere": 0
+  },
+  {
+    "id": 149,
+    "nom": "Dé",
+    "categories": [
+      15,
+      20
+    ],
+    "description": "Amour du jeu de rôle et/ou de société",
+    "localisation": 1,
+    "image": "",
+    "filiere": 0
+  },
+  {
+    "id": 150,
+    "nom": "Fleur de lys",
+    "categories": [
+      15,
+      21
+    ],
+    "description": "Scout ou ancien scout",
+    "localisation": 1,
+    "image": "",
+    "filiere": 0
+  }
+]
