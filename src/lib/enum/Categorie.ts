@@ -24,3 +24,33 @@ export enum Categorie {
     HistoireAntiquite = 22,
     Divers = 23,
 }
+
+export function toStringCategorie(categorie: Categorie): string {
+    const map: Record<Categorie, string> = {
+        [Categorie.Animaux]: "Animaux",
+        [Categorie.AnimauxTerrestres]: "Animaux terrestres",
+        [Categorie.AnimauxVolants]: "Animaux volants",
+        [Categorie.AnimauxAquatiques]: "Animaux aquatiques",
+        [Categorie.AnimauxMythologiques]: "Animaux mythologiques",
+        [Categorie.AlcoolBoissons]: "Alcool / Boissons",
+        [Categorie.MedecineSante]: "Médecine / Santé",
+        [Categorie.MusiqueArts]: "Musique / Arts",
+        [Categorie.EtudesDisciplines]: "Études / Disciplines",
+        [Categorie.VieSentimentaleSexuelle]: "Vie sentimentale / sexuelle",
+        [Categorie.NourritureGastronomie]: "Nourriture / Gastronomie",
+        [Categorie.GeographieRegions]: "Géographie / Régions",
+        [Categorie.HonneursDistinctions]: "Honneurs / Distinctions",
+        [Categorie.BlamesSanctions]: "Blâmes / Sanctions",
+        [Categorie.TransportVehicules]: "Transport / Véhicules",
+        [Categorie.LoisirsPassions]: "Loisirs / Passions",
+        [Categorie.VieAssociativeAdministrative]: "Vie associative / administrative",
+        [Categorie.AptitudesTraitsCaractere]: "Aptitudes / Traits de caractère",
+        [Categorie.FamilleParrainage]: "Famille / Parrainage",
+        [Categorie.LettresChiffres]: "Lettres / Chiffres",
+        [Categorie.OutilsObjets]: "Outils / Objets",
+        [Categorie.VegetauxNature]: "Végétaux / Nature",
+        [Categorie.HistoireAntiquite]: "Histoire / Antiquité",
+        [Categorie.Divers]: "Divers",
+    };
+    return map[categorie] ?? "Inconnu";
+}
