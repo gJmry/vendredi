@@ -1852,5 +1852,570 @@
     "localisation": 1,
     "image": "",
     "filiere": 0
+  },
+  {
+    "id": 164,
+    "nom": "Équerre et Compas",
+    "categories": [
+      8,
+      20
+    ],
+    "description": "Emblème Architecture (sur satin bleu)",
+    "localisation": 0,
+    "image": "",
+    "filiere": 14
+  },
+  {
+    "id": 165,
+    "nom": "Marteau et Maillet + Initiales du département",
+    "categories": [
+      8,
+      20
+    ],
+    "description": "Emblème IUT (sur satin blanc dégueu)",
+    "localisation": 0,
+    "image": "",
+    "filiere": 23
+  },
+  {
+    "id": 166,
+    "nom": "Tête de Cheval (emblème)",
+    "categories": [
+      8,
+      0
+    ],
+    "description": "Emblème Vétérinaire (sur velours violet)",
+    "localisation": 0,
+    "image": "",
+    "filiere": 11
+  },
+  {
+    "id": 167,
+    "nom": "Casque de Périclès",
+    "categories": [
+      8,
+      22
+    ],
+    "description": "Amour de l'Histoire / Emblème Histoire (sur satin jaune)",
+    "localisation": 1,
+    "image": "",
+    "filiere": 30
+  },
+  {
+    "id": 168,
+    "nom": "Livre ouvert et plume à l'envers",
+    "categories": [
+      8,
+      17
+    ],
+    "description": "Dyslexique",
+    "localisation": 1,
+    "image": "",
+    "filiere": 0
+  },
+  {
+    "id": 169,
+    "nom": "Plume",
+    "categories": [
+      8,
+      15
+    ],
+    "description": "Amour de la littérature",
+    "localisation": 1,
+    "image": "",
+    "filiere": 0
+  },
+  {
+    "id": 170,
+    "nom": "Glaive et Balance",
+    "categories": [
+      8,
+      20
+    ],
+    "description": "Emblème Droit (sur satin rouge) / CPGE Droit / Emblème Écoles de Notariat",
+    "localisation": 0,
+    "image": "",
+    "filiere": 13
+  },
+  {
+    "id": 171,
+    "nom": "Étoile et foudre",
+    "categories": [
+      8,
+      15
+    ],
+    "description": "Amour de l'électronique et/ou de l'informatique / Emblème Écoles d'Ingénieur",
+    "localisation": 1,
+    "image": "",
+    "filiere": 45
+  },
+  {
+    "id": 172,
+    "nom": "Palmes Croisées Chêne et Laurier",
+    "categories": [
+      8,
+      21
+    ],
+    "description": "CPGE Sup / Spé / Emblème Sciences + initiales de la discipline (sur satin violet)",
+    "localisation": 0,
+    "image": "",
+    "filiere": 20
+  },
+  {
+    "id": 173,
+    "nom": "Balais sur ruban blanc dégueu",
+    "categories": [
+      23,
+      20
+    ],
+    "description": "A nettoyé Feyssine (dans le cadre d'une clean walk)",
+    "localisation": 0,
+    "image": "",
+    "filiere": 23
+  },
+  {
+    "id": 174,
+    "nom": "Cuillère",
+    "categories": [
+      23,
+      20
+    ],
+    "description": "Amour des Lamas",
+    "localisation": 1,
+    "image": "",
+    "filiere": 23
+  },
+  {
+    "id": 175,
+    "nom": "Fer à repasser à l'endroit",
+    "categories": [
+      23,
+      20
+    ],
+    "description": "Se plie correctement (position de base)",
+    "localisation": 1,
+    "image": "",
+    "filiere": 23
+  },
+  {
+    "id": 176,
+    "nom": "Fer à repasser à l'envers",
+    "categories": [
+      23,
+      20
+    ],
+    "description": "Impliable (dès que tu as plié 3 personnes au bar)",
+    "localisation": 1,
+    "image": "",
+    "filiere": 23
+  },
+  {
+    "id": 177,
+    "nom": "Moustache",
+    "categories": [
+      23,
+      20
+    ],
+    "description": "Est passé·e au code 14-18",
+    "localisation": 1,
+    "image": "",
+    "filiere": 23
+  },
+  {
+    "id": 178,
+    "nom": "Tête d'Indien sur satin blanc",
+    "categories": [
+      23,
+      22
+    ],
+    "description": "Est monté·e à Feyssine après son baptême",
+    "localisation": 1,
+    "image": "",
+    "filiere": 23
+  },
+  {
+    "id": 179,
+    "nom": "Bouton d'Uniforme",
+    "categories": [
+      23,
+      20
+    ],
+    "description": "Un pour sept jours de Trou",
+    "localisation": 0,
+    "image": "",
+    "filiere": 23
+  },
+  {
+    "id": 180,
+    "nom": "Quille",
+    "categories": [
+      23,
+      20
+    ],
+    "description": "A quitté le service actif (après l'étoile de l'année de départ)",
+    "localisation": 0,
+    "image": "",
+    "filiere": 23
+  },
+  {
+    "id": 181,
+    "nom": "Lettres AES",
+    "categories": [
+      8,
+      19
+    ],
+    "description": "Emblème AES (sur satin rouge)",
+    "localisation": 0,
+    "image": "",
+    "filiere": 12
+  },
+  {
+    "id": 182,
+    "nom": "Lettres BTS",
+    "categories": [
+      8,
+      19
+    ],
+    "description": "Emblème BTS (sur satin blanc)",
+    "localisation": 0,
+    "image": "",
+    "filiere": 19
+  },
+  {
+    "id": 183,
+    "nom": "Lettres COM",
+    "categories": [
+      8,
+      19
+    ],
+    "description": "Emblème Communication (sur satin jaune)",
+    "localisation": 0,
+    "image": "",
+    "filiere": 27
+  },
+  {
+    "id": 184,
+    "nom": "Lettres EVE",
+    "categories": [
+      8,
+      19
+    ],
+    "description": "Emblème Événementiel (sur satin jaune)",
+    "localisation": 0,
+    "image": "",
+    "filiere": 28
+  },
+  {
+    "id": 185,
+    "nom": "Lettres INSPE",
+    "categories": [
+      8,
+      19
+    ],
+    "description": "Emblème INSPE (sur satin gris)",
+    "localisation": 0,
+    "image": "",
+    "filiere": 22
+  },
+  {
+    "id": 186,
+    "nom": "Lettres LP + Initiales de la licence",
+    "categories": [
+      8,
+      19
+    ],
+    "description": "Licence Professionnelle",
+    "localisation": 0,
+    "image": "",
+    "filiere": 23
+  },
+  {
+    "id": 187,
+    "nom": "Lettres UFRAPS",
+    "categories": [
+      8,
+      19
+    ],
+    "description": "Emblème STAPS à Lyon (sur satin vert foncé)",
+    "localisation": 0,
+    "image": "",
+    "filiere": 42
+  },
+  {
+    "id": 188,
+    "nom": "Lettres DUETI + Drapeau",
+    "categories": [
+      8,
+      19
+    ],
+    "description": "DUETI",
+    "localisation": 0,
+    "image": "",
+    "filiere": 23
+  },
+  {
+    "id": 189,
+    "nom": "Clap de Cinéma",
+    "categories": [
+      7,
+      20
+    ],
+    "description": "Emblème Cinéma (sur satin bleu)",
+    "localisation": 0,
+    "image": "",
+    "filiere": 16
+  },
+  {
+    "id": 190,
+    "nom": "Paire de Ciseaux (emblème)",
+    "categories": [
+      8,
+      20
+    ],
+    "description": "Emblème Couture/Mode (sur satin bleu)",
+    "localisation": 0,
+    "image": "",
+    "filiere": 17
+  },
+  {
+    "id": 191,
+    "nom": "Paire de Ciseaux Paramédical",
+    "categories": [
+      6,
+      20
+    ],
+    "description": "Emblème Paramédical (sur velours rose)",
+    "localisation": 0,
+    "image": "",
+    "filiere": 5
+  },
+  {
+    "id": 192,
+    "nom": "Grenouille",
+    "categories": [
+      8,
+      0
+    ],
+    "description": "Emblème Sociologie (sur satin jaune)",
+    "localisation": 0,
+    "image": "",
+    "filiere": 37
+  },
+  {
+    "id": 193,
+    "nom": "Squelette (emblème)",
+    "categories": [
+      8,
+      6
+    ],
+    "description": "Emblème Anthropologie (sur satin jaune)",
+    "localisation": 0,
+    "image": "",
+    "filiere": 24
+  },
+  {
+    "id": 194,
+    "nom": "Tête de Sphinx (emblème)",
+    "categories": [
+      8,
+      4,
+      22
+    ],
+    "description": "Emblème Archéologie (sur satin jaune)",
+    "localisation": 0,
+    "image": "",
+    "filiere": 25
+  },
+  {
+    "id": 195,
+    "nom": "Nounours (emblème)",
+    "categories": [
+      8,
+      0
+    ],
+    "description": "Emblème Sciences de l'Éducation (sur satin jaune)",
+    "localisation": 0,
+    "image": "",
+    "filiere": 36
+  },
+  {
+    "id": 196,
+    "nom": "Lettre phi",
+    "categories": [
+      8,
+      19
+    ],
+    "description": "Emblème Philosophie (sur satin jaune)",
+    "localisation": 0,
+    "image": "",
+    "filiere": 33
+  },
+  {
+    "id": 197,
+    "nom": "Lettre psi",
+    "categories": [
+      8,
+      19
+    ],
+    "description": "Emblème Psychologie (sur satin jaune)",
+    "localisation": 0,
+    "image": "",
+    "filiere": 34
+  },
+  {
+    "id": 198,
+    "nom": "Lettres psi + PRAT",
+    "categories": [
+      8,
+      19
+    ],
+    "description": "Emblème Psychopraticien (sur satin jaune)",
+    "localisation": 0,
+    "image": "",
+    "filiere": 35
+  },
+  {
+    "id": 199,
+    "nom": "Parapluie (emblème)",
+    "categories": [
+      8,
+      20
+    ],
+    "description": "Emblème Sciences Politiques (sur satin rouge et bleu)",
+    "localisation": 0,
+    "image": "",
+    "filiere": 46
+  },
+  {
+    "id": 200,
+    "nom": "Livre ouvert avec Plume",
+    "categories": [
+      8,
+      20
+    ],
+    "description": "Emblème Lettres et Langues (sur satin jaune)",
+    "localisation": 0,
+    "image": "",
+    "filiere": 32
+  },
+  {
+    "id": 201,
+    "nom": "Lyre (emblème)",
+    "categories": [
+      7,
+      8
+    ],
+    "description": "Emblème Musique et/ou Musicologie (sur satin argenté)",
+    "localisation": 0,
+    "image": "",
+    "filiere": 38
+  },
+  {
+    "id": 202,
+    "nom": "Grappe de Raisin (emblème)",
+    "categories": [
+      8,
+      21
+    ],
+    "description": "Emblème Œnologie (sur satin rose saumon)",
+    "localisation": 0,
+    "image": "",
+    "filiere": 39
+  },
+  {
+    "id": 203,
+    "nom": "Deux étoiles dorées superposées",
+    "categories": [
+      8,
+      23
+    ],
+    "description": "Année spéciale (DUT en 1 an)",
+    "localisation": 0,
+    "image": "",
+    "filiere": 23
+  },
+  {
+    "id": 204,
+    "nom": "Lime sur ESST",
+    "categories": [
+      9,
+      23
+    ],
+    "description": "Décernée à toute chaudasse émérite de la Catho",
+    "localisation": 1,
+    "image": "",
+    "filiere": 47
+  },
+  {
+    "id": 205,
+    "nom": "Caducée mercure sur ruban SEC",
+    "categories": [
+      8,
+      6
+    ],
+    "description": "Possède un prénom digne de la filière SEC",
+    "localisation": 1,
+    "image": "",
+    "filiere": 51
+  },
+  {
+    "id": 206,
+    "nom": "Squelette à l'envers dans palme croisée chêne et laurier",
+    "categories": [
+      6,
+      8
+    ],
+    "description": "Jack Mayol",
+    "localisation": 1,
+    "image": "",
+    "filiere": 0
+  },
+  {
+    "id": 207,
+    "nom": "Ancre croisé raquette de tennis",
+    "categories": [
+      15,
+      14
+    ],
+    "description": "Champion de raquette de plage",
+    "localisation": 1,
+    "image": "",
+    "filiere": 0
+  },
+  {
+    "id": 208,
+    "nom": "Lyre sur moivre bleu et blanc à l'endroit",
+    "categories": [
+      7,
+      15
+    ],
+    "description": "Amour de Céline Dion devant l'éternel",
+    "localisation": 1,
+    "image": "",
+    "filiere": 0
+  },
+  {
+    "id": 209,
+    "nom": "Lyre sur moivre bleu et blanc à l'envers",
+    "categories": [
+      7,
+      15
+    ],
+    "description": "Répulsion de Céline Dion devant l'éternel",
+    "localisation": 1,
+    "image": "",
+    "filiere": 0
+  },
+  {
+    "id": 210,
+    "nom": "Coq (compétition sportive)",
+    "categories": [
+      15,
+      2
+    ],
+    "description": "A participé à une compétition sportive durant sa vie étudiante",
+    "localisation": 1,
+    "image": "",
+    "filiere": 0
   }
 ]
