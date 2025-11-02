@@ -3,7 +3,6 @@ export enum Categorie {
     AnimauxTerrestres = 1,
     AnimauxVolants = 2,
     AnimauxAquatiques = 3,
-    AnimauxMythologiques = 4,
     AlcoolBoissons = 5,
     MedecineSante = 6,
     MusiqueArts = 7,
@@ -22,7 +21,6 @@ export enum Categorie {
     OutilsObjets = 20,
     VegetauxNature = 21,
     HistoireAntiquite = 22,
-    Divers = 23,
 }
 
 export function toStringCategorie(categorie: Categorie): string {
@@ -31,7 +29,6 @@ export function toStringCategorie(categorie: Categorie): string {
         [Categorie.AnimauxTerrestres]: "Animaux terrestres",
         [Categorie.AnimauxVolants]: "Animaux volants",
         [Categorie.AnimauxAquatiques]: "Animaux aquatiques",
-        [Categorie.AnimauxMythologiques]: "Animaux mythologiques",
         [Categorie.AlcoolBoissons]: "Alcool / Boissons",
         [Categorie.MedecineSante]: "Médecine / Santé",
         [Categorie.MusiqueArts]: "Musique / Arts",
@@ -50,7 +47,6 @@ export function toStringCategorie(categorie: Categorie): string {
         [Categorie.OutilsObjets]: "Outils / Objets",
         [Categorie.VegetauxNature]: "Végétaux / Nature",
         [Categorie.HistoireAntiquite]: "Histoire / Antiquité",
-        [Categorie.Divers]: "Divers",
     };
     return map[categorie] ?? "Inconnu";
 }
