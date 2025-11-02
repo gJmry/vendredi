@@ -293,21 +293,19 @@
 
 {#if selectedInsigne}
     <div 
-        class="fixed inset-0 bg-black bg-opacity-50 z-50 flex items-end md:items-center justify-center p-0 md:p-4"
+        class="fixed inset-0 bg-black/40 backdrop-blur-sm z-50 flex items-end md:items-center justify-center p-0 md:p-4"
         on:click={closePopup}
         on:keydown={(e) => (e.key === 'Escape' || e.key === 'Enter' || e.key === ' ') && closePopup()}
         role="dialog"
         aria-modal="true"
         tabindex="0"
     >
-        <dialog 
-            class="bg-white w-full md:max-w-lg md:rounded-2xl rounded-t-3xl shadow-2xl transform transition-transform animate-in slide-in-from-bottom md:slide-in-from-bottom-0"
+        <!-- svelte-ignore a11y_no_static_element_interactions -->
+        <div 
+            class="bg-white md:my-16 w-full md:max-w-3xl md:rounded-2xl rounded-t-3xl shadow-2xl transform transition-transform animate-in slide-in-from-bottom md:slide-in-from-bottom-0"
             on:click|stopPropagation
             on:keydown|stopPropagation
-            role="document"
-            open
         >
-            <!-- Header du popup -->
             <div class="flex items-center justify-between p-4 border-b border-gray-200">
                 <h3 class="text-lg font-semibold text-gray-900">Détails de l'insigne</h3>
                 <button
@@ -321,8 +319,7 @@
                 </button>
             </div>
 
-            <!-- Contenu du popup -->
-            <div class="p-6 max-h-[70vh] md:max-h-[600px] overflow-y-auto">
+            <div class="p-6 max-h-[70vh] md:max-h-[80vh] overflow-y-auto">
                 <div class="flex flex-col items-center text-center mb-6">
                     {#if selectedInsigne.image}
                         <img src={selectedInsigne.image} alt={selectedInsigne.nom} class="w-32 h-32 object-contain mb-4"/>
@@ -353,7 +350,6 @@
                 </div>
             </div>
 
-            <!-- Footer du popup -->
             <div class="p-4 border-t border-gray-200">
                 <button
                     on:click={closePopup}
@@ -362,7 +358,7 @@
                     Fermer
                 </button>
             </div>
-        </dialog>
+        </div>
     </div>
 {/if}
 
