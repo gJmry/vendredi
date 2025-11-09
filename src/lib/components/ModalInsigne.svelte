@@ -24,8 +24,7 @@
 >
     <!-- svelte-ignore a11y_no_static_element_interactions -->
     <div 
-        class="{darkMode ? 'bg-slate-800' : 'bg-white'} md:my-16 w-full md:max-w-3xl md:rounded-2xl rounded-t-2xl shadow-2xl transform animate-slide-up"
-        on:click|stopPropagation
+        class="{darkMode ? 'bg-slate-800' : 'bg-white'} md:my-16 w-full md:max-w-3xl md:max-h-[80vh] flex flex-col rounded-t-2xl md:rounded-2xl shadow-2xl transform animate-slide-up overflow-hidden"        on:click|stopPropagation
         on:keydown|stopPropagation
     >
         <div class="flex items-center justify-between p-4 {darkMode ? 'border-slate-700 bg-slate-700' : 'border-slate-200 bg-slate-50'} border-b">
