@@ -1,5 +1,5 @@
 <script lang="ts">
-    import insignes from "$lib/data/insignes.json";
+    import insignes from "$lib/data/insignes.json" with { type: 'json' };
     import type {Insigne} from "$lib/entity/Insigne.ts";
 
     import {Filiere, toStringFiliere} from "$lib/enum/Filiere.js";
