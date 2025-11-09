@@ -87,7 +87,7 @@
             {/each}
         </select>
 
-        <select bind:value={selectedLocalisation} class="{darkMode ? 'border-slate-600 bg-slate-700 text-slate-100 hover:border-slate-500 focus:ring-slate-500' : 'border-slate-300 bg-white hover:border-slate-400 focus:ring-slate-400'} border rounded-lg px-3 py-2 text-sm shadow-sm focus:ring-2 focus:outline-none transition">
+        <select bind:value={selectedLocalisation} class="{darkMode ? 'border-slate-600 bg-slate-700 text-slate-100 hover:border-slate-500 focus:ring-slate-500' : 'border-slate-300 bg-white hover:border-slate-400 focus:ring-slate-400'} border rounded-lg px-3 py-2 pr-10 text-sm shadow-sm focus:ring-2 focus:outline-none transition">
             <option value="all">Toutes Localisations</option>
             {#each Object.values(Localisation) as l (l)}
                 {#if typeof l === "number"}
@@ -140,7 +140,7 @@
                 {/each}
             </select>
 
-            <select bind:value={selectedLocalisation} class="w-full {darkMode ? 'border-slate-600 bg-slate-700 text-slate-100' : 'border-slate-300 bg-white'} border rounded-lg px-3 py-2.5 text-sm shadow-sm">
+            <select bind:value={selectedLocalisation} class="w-full {darkMode ? 'border-slate-600 bg-slate-700 text-slate-100' : 'border-slate-300 bg-white'} border rounded-lg px-3 pr-10 py-2.5 text-sm shadow-sm">
                 <option value="all">Toutes Localisations</option>
                 {#each Object.values(Localisation) as l (l)}
                     {#if typeof l === "number"}
