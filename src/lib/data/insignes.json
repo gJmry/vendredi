@@ -4,747 +4,747 @@
     "nom": "Bac Général",
     "categories": [8, 19],
     "description": "Baccalauréat Général - Lettre γ « Gamma »",
-    "localisation": 1,
+    "localisation": 0,
     "image": "",
-    "filiere": 1
+    "filiere": 0
   },
   {
     "id": 2,
     "nom": "Bac Économique",
     "categories": [8, 19],
     "description": "Baccalauréat Économique - Lettre β « Beta »",
-    "localisation": 1,
+    "localisation": 0,
     "image": "",
-    "filiere": 1
+    "filiere": 0
   },
   {
     "id": 3,
     "nom": "Bac Littéraire",
     "categories": [8, 19],
     "description": "Baccalauréat Littéraire - Lettre φ « Phi »",
-    "localisation": 1,
+    "localisation": 0,
     "image": "",
-    "filiere": 1
+    "filiere": 0
   },
   {
     "id": 4,
     "nom": "Bac Scientifique SI",
     "categories": [8, 19],
     "description": "Baccalauréat Scientifique spécialité SI - Lettre ε « Epsilon »",
-    "localisation": 1,
+    "localisation": 0,
     "image": "",
-    "filiere": 1
+    "filiere": 0
   },
   {
     "id": 5,
     "nom": "Bac Scientifique SVT/EAT",
     "categories": [8, 19],
     "description": "Baccalauréat Scientifique spécialité SVT et EAT - Lettres φε",
-    "localisation": 1,
+    "localisation": 0,
     "image": "",
-    "filiere": 1
+    "filiere": 0
   },
   {
     "id": 6,
     "nom": "Autres Bacs",
     "categories": [8, 19],
     "description": "Autres Baccalauréats (STG, STI, STL, PRO...) - Lettres correspondantes aux initiales",
-    "localisation": 1,
+    "localisation": 0,
     "image": "",
-    "filiere": 1
+    "filiere": 0
   },
   {
     "id": 7,
     "nom": "Capacité en Droit",
     "categories": [8, 19],
     "description": "Capacité en Droit - Lettres CAPD",
-    "localisation": 1,
+    "localisation": 0,
     "image": "",
-    "filiere": 1
+    "filiere": 0
   },
   {
     "id": 8,
     "nom": "DAEU",
     "categories": [8, 19],
     "description": "Diplôme d'Aptitude aux Études Universitaires - Lettres DAEU",
-    "localisation": 1,
+    "localisation": 0,
     "image": "",
-    "filiere": 1
+    "filiere": 0
   },
   {
     "id": 9,
     "nom": "Molaire",
     "categories": [6, 8],
     "description": "Emblème de Chirurgie Dentaire - Sur velours bordeaux",
-    "localisation": 1,
+    "localisation": 0,
     "image": "",
-    "filiere": 3
+    "filiere": 0
   },
   {
     "id": 10,
     "nom": "Caducée Médecine",
     "categories": [6, 8],
     "description": "Emblème de Médecine - Sur velours rouge",
-    "localisation": 1,
+    "localisation": 0,
     "image": "",
-    "filiere": 7
+    "filiere": 0
   },
   {
     "id": 11,
     "nom": "Os Sphénoïde",
     "categories": [6, 8],
     "description": "Emblème d'Ostéopathie - Sur velours bleu Roy",
-    "localisation": 1,
+    "localisation": 0,
     "image": "",
-    "filiere": 9
+    "filiere": 0
   },
   {
     "id": 12,
-    "nom": "Caducée Mercure (Kiné)",
+    "nom": "Caducée Mercure",
     "categories": [6, 8],
     "description": "Emblème de Kinésithérapie - Sur velours rose",
-    "localisation": 1,
+    "localisation": 0,
     "image": "",
-    "filiere": 12
+    "filiere": 0
   },
   {
     "id": 13,
     "nom": "Paire de Ciseaux + AP",
     "categories": [6, 8, 20],
     "description": "Paramédical - Audioprothésistes - Sur velours rose",
-    "localisation": 1,
+    "localisation": 0,
     "image": "",
-    "filiere": 12
+    "filiere": 0
   },
   {
     "id": 14,
     "nom": "Paire de Ciseaux + ERGO",
     "categories": [6, 8, 20],
     "description": "Paramédical - Ergothérapeutes - Sur velours rose",
-    "localisation": 1,
+    "localisation": 0,
     "image": "",
-    "filiere": 12
+    "filiere": 0
   },
   {
     "id": 15,
     "nom": "Paire de Ciseaux + ES",
     "categories": [6, 8, 20],
     "description": "Paramédical - Éducateurs Spécialisés - Sur velours rose",
-    "localisation": 1,
+    "localisation": 0,
     "image": "",
-    "filiere": 12
+    "filiere": 0
   },
   {
     "id": 16,
     "nom": "Paire de Ciseaux + ME",
     "categories": [6, 8, 20],
     "description": "Paramédical - Moniteurs Éducateurs - Sur velours rose",
-    "localisation": 1,
+    "localisation": 0,
     "image": "",
-    "filiere": 12
+    "filiere": 0
   },
   {
     "id": 17,
     "nom": "Paire de Ciseaux + MR",
     "categories": [6, 8, 20],
     "description": "Paramédical - Manipulateurs Radio - Sur velours rose",
-    "localisation": 1,
+    "localisation": 0,
     "image": "",
-    "filiere": 12
+    "filiere": 0
   },
   {
     "id": 18,
     "nom": "Paire de Ciseaux + Oφ",
     "categories": [6, 8, 20],
     "description": "Paramédical - Orthophonistes - Sur velours rose",
-    "localisation": 1,
+    "localisation": 0,
     "image": "",
-    "filiere": 12
+    "filiere": 0
   },
   {
     "id": 19,
     "nom": "Paire de Ciseaux + OP",
     "categories": [6, 8, 20],
     "description": "Paramédical - Orthoptistes - Sur velours rose",
-    "localisation": 1,
+    "localisation": 0,
     "image": "",
-    "filiere": 12
+    "filiere": 0
   },
   {
     "id": 20,
     "nom": "Paire de Ciseaux + ψM",
     "categories": [6, 8, 20],
     "description": "Paramédical - Psychomotriciens - Sur velours rose",
-    "localisation": 1,
+    "localisation": 0,
     "image": "",
-    "filiere": 12
+    "filiere": 0
   },
   {
     "id": 21,
     "nom": "Caducée Infirmier",
     "categories": [6, 8],
     "description": "Soins infirmiers - Sur velours rose",
-    "localisation": 1,
+    "localisation": 0,
     "image": "",
-    "filiere": 12
+    "filiere": 0
   },
   {
     "id": 22,
     "nom": "Caducée sur Coupe",
     "categories": [6, 8],
     "description": "Emblème de Pharmacie - Sur velours vert",
-    "localisation": 1,
+    "localisation": 0,
     "image": "",
-    "filiere": 10
+    "filiere": 0
   },
   {
     "id": 23,
     "nom": "Tête de mort sur fémurs croisés",
     "categories": [6, 8],
     "description": "PASS/LASS (Anciennement PACES) - Sur velours marron",
-    "localisation": 1,
+    "localisation": 0,
     "image": "",
-    "filiere": 1
+    "filiere": 0
   },
   {
     "id": 24,
     "nom": "Emblème filière préparée",
     "categories": [8],
     "description": "Prépa Santé - Emblème de la filière préparée - Sur velours marron",
-    "localisation": 1,
+    "localisation": 0,
     "image": "",
-    "filiere": 1
+    "filiere": 0
   },
   {
     "id": 25,
     "nom": "Croix d'Ankh",
     "categories": [6, 8],
     "description": "Emblème de Sage-Femme - Sur velours fuchsia",
-    "localisation": 1,
+    "localisation": 0,
     "image": "",
-    "filiere": 11
+    "filiere": 0
   },
   {
     "id": 26,
-    "nom": "Tête de Cheval (Vétérinaire)",
+    "nom": "Tête de Cheval",
     "categories": [1, 6, 8],
     "description": "Emblème de Vétérinaire - Sur velours violet",
-    "localisation": 1,
+    "localisation": 0,
     "image": "",
-    "filiere": 17
+    "filiere": 0
   },
   {
     "id": 27,
-    "nom": "Caducée Mercure (Économie)",
+    "nom": "Caducée Mercure",
     "categories": [8],
     "description": "Sciences Économiques et de Gestion - Sur satin orange",
-    "localisation": 1,
+    "localisation": 0,
     "image": "",
-    "filiere": 1
+    "filiere": 0
   },
   {
     "id": 28,
     "nom": "UFRAPS",
     "categories": [8, 19],
     "description": "STAPS (à Lyon) - Lettres UFRAPS - Sur satin vert foncé",
-    "localisation": 1,
+    "localisation": 0,
     "image": "",
-    "filiere": 15
+    "filiere": 0
   },
   {
     "id": 29,
     "nom": "Caducée Mercure + Nom École Commerce",
     "categories": [8],
     "description": "Écoles de Commerce - Caducée Mercure + Nom de l'École - Sur satin rouge et vert",
-    "localisation": 1,
+    "localisation": 0,
     "image": "",
-    "filiere": 14
+    "filiere": 0
   },
   {
     "id": 30,
-    "nom": "Glaive et Balance (Notariat)",
+    "nom": "Glaive et Balance",
     "categories": [8, 20],
     "description": "Écoles de Notariat - Sur satin rouge et noir",
-    "localisation": 1,
+    "localisation": 0,
     "image": "",
-    "filiere": 1
+    "filiere": 0
   },
   {
     "id": 31,
     "nom": "Étoile et Foudre + Nom École",
     "categories": [8],
     "description": "Écoles d'Ingénieur - Étoile et Foudre + Nom de l'École - Sur satin bleu roy et noir",
-    "localisation": 1,
+    "localisation": 0,
     "image": "",
-    "filiere": 4
+    "filiere": 0
   },
   {
     "id": 32,
     "nom": "Parapluie Fermé",
     "categories": [8, 20],
     "description": "Sciences Politiques - Sur satin rouge et bleu",
-    "localisation": 1,
+    "localisation": 0,
     "image": "",
-    "filiere": 1
+    "filiere": 0
   },
   {
     "id": 33,
     "nom": "Emblème Discipline + Nom école Catho",
     "categories": [8],
     "description": "Université Catholique - Emblème de la Discipline + Nom de l'école - Sur satin blanc et rouge",
-    "localisation": 1,
+    "localisation": 0,
     "image": "",
-    "filiere": 16
+    "filiere": 0
   },
   {
     "id": 34,
     "nom": "Lettres AES",
     "categories": [8, 19],
     "description": "AES - Sur satin rouge",
-    "localisation": 1,
+    "localisation": 0,
     "image": "",
-    "filiere": 1
+    "filiere": 0
   },
   {
     "id": 35,
-    "nom": "Glaive et Balance (Droit)",
+    "nom": "Glaive et Balance",
     "categories": [8, 20],
     "description": "Droit - Sur satin rouge",
-    "localisation": 1,
+    "localisation": 0,
     "image": "",
-    "filiere": 1
+    "filiere": 0
   },
   {
     "id": 36,
     "nom": "Équerre et Compas",
     "categories": [8, 20],
     "description": "Architecture - Sur satin bleu",
-    "localisation": 1,
+    "localisation": 0,
     "image": "",
-    "filiere": 1
+    "filiere": 0
   },
   {
     "id": 37,
-    "nom": "Palette et Pinceau (Arts)",
+    "nom": "Palette et Pinceau",
     "categories": [7, 8, 20],
     "description": "Arts - Sur satin bleu",
-    "localisation": 1,
+    "localisation": 0,
     "image": "",
-    "filiere": 1
+    "filiere": 0
   },
   {
     "id": 38,
     "nom": "Clap de Cinéma",
     "categories": [7, 8, 20],
     "description": "Cinéma - Sur satin bleu",
-    "localisation": 1,
+    "localisation": 0,
     "image": "",
-    "filiere": 1
+    "filiere": 0
   },
   {
     "id": 39,
-    "nom": "Paire de Ciseaux (Couture/Mode)",
+    "nom": "Paire de Ciseaux",
     "categories": [8, 20],
     "description": "Couture/Mode - Sur satin bleu",
-    "localisation": 1,
+    "localisation": 0,
     "image": "",
-    "filiere": 1
+    "filiere": 0
   },
   {
     "id": 40,
-    "nom": "Masque de Comédie (Théâtre)",
+    "nom": "Masque de Comédie",
     "categories": [7, 8, 20],
     "description": "Théâtre - Sur satin bleu",
-    "localisation": 1,
+    "localisation": 0,
     "image": "",
-    "filiere": 1
+    "filiere": 0
   },
   {
     "id": 41,
     "nom": "Lettres BTS",
     "categories": [8, 19],
     "description": "BTS - Sur satin blanc - Peuvent être baptisés par les sciences ou les IUT",
-    "localisation": 1,
+    "localisation": 0,
     "image": "",
-    "filiere": 1
+    "filiere": 0
   },
   {
     "id": 42,
     "nom": "Épi de Blé + Tête de Cheval",
     "categories": [1, 8, 21],
     "description": "CPGE - BCPST2 - Sur satin marron",
-    "localisation": 1,
+    "localisation": 0,
     "image": "",
-    "filiere": 1
+    "filiere": 0
   },
   {
     "id": 43,
-    "nom": "Caducée Mercure (ECS/ECE)",
+    "nom": "Caducée Mercure",
     "categories": [8],
     "description": "CPGE - ECS/ECE - Sur satin marron",
-    "localisation": 1,
+    "localisation": 0,
     "image": "",
-    "filiere": 1
+    "filiere": 0
   },
   {
     "id": 44,
     "nom": "Chouette Bicéphale",
     "categories": [2, 8],
     "description": "CPGE - Hypokhâgne / Khâgne - Sur satin marron",
-    "localisation": 1,
+    "localisation": 0,
     "image": "",
-    "filiere": 1
+    "filiere": 0
   },
   {
     "id": 45,
-    "nom": "Palmes Croisées Chêne et Laurier (Sup/Spé)",
+    "nom": "Palmes Croisées Chêne et Laurier",
     "categories": [8, 21],
     "description": "CPGE - Sup / Spé - Sur satin marron",
-    "localisation": 1,
+    "localisation": 0,
     "image": "",
-    "filiere": 1
+    "filiere": 0
   },
   {
     "id": 46,
-    "nom": "Glaive et Balance (CPGE Droit)",
+    "nom": "Glaive et Balance",
     "categories": [8, 20],
     "description": "CPGE - Droit - Sur satin marron",
-    "localisation": 1,
+    "localisation": 0,
     "image": "",
-    "filiere": 1
+    "filiere": 0
   },
   {
     "id": 47,
     "nom": "Emblème de la Discipline (ENS)",
     "categories": [8],
     "description": "Écoles Normales Supérieures - Sur satin gris",
-    "localisation": 1,
+    "localisation": 0,
     "image": "",
-    "filiere": 1
+    "filiere": 0
   },
   {
     "id": 48,
     "nom": "Lettres INSPE",
     "categories": [8, 19],
     "description": "INSPE (anciennement ESPE) - Sur satin gris",
-    "localisation": 1,
+    "localisation": 0,
     "image": "",
-    "filiere": 1
+    "filiere": 0
   },
   {
     "id": 49,
     "nom": "Marteau et Maillet + Initiales département",
     "categories": [8, 20],
     "description": "IUT - Sur satin blanc dégueu",
-    "localisation": 1,
+    "localisation": 0,
     "image": "",
-    "filiere": 5
+    "filiere": 0
   },
   {
     "id": 50,
     "nom": "Squelette",
     "categories": [8],
     "description": "Anthropologie - Sur satin jaune",
-    "localisation": 1,
+    "localisation": 0,
     "image": "",
-    "filiere": 6
+    "filiere": 0
   },
   {
     "id": 51,
     "nom": "Tête de Sphinx",
     "categories": [8, 22],
     "description": "Archéologie - Sur satin jaune",
-    "localisation": 1,
+    "localisation": 0,
     "image": "",
-    "filiere": 6
+    "filiere": 0
   },
   {
     "id": 52,
-    "nom": "Masque de Comédie (Arts du Spectacle)",
+    "nom": "Masque de Comédie",
     "categories": [7, 8, 20],
     "description": "Arts du Spectacle - Sur satin jaune",
-    "localisation": 1,
+    "localisation": 0,
     "image": "",
-    "filiere": 6
+    "filiere": 0
   },
   {
     "id": 53,
     "nom": "Lettres COM",
     "categories": [8, 19],
     "description": "Communication - Sur satin jaune",
-    "localisation": 1,
+    "localisation": 0,
     "image": "",
-    "filiere": 6
+    "filiere": 0
   },
   {
     "id": 54,
     "nom": "Lettres EVE",
     "categories": [8, 19],
     "description": "Événementiel - Sur satin jaune",
-    "localisation": 1,
+    "localisation": 0,
     "image": "",
-    "filiere": 6
+    "filiere": 0
   },
   {
     "id": 55,
     "nom": "Globe",
     "categories": [8, 11],
     "description": "Géographie - Sur satin jaune",
-    "localisation": 1,
+    "localisation": 0,
     "image": "",
-    "filiere": 6
+    "filiere": 0
   },
   {
     "id": 56,
     "nom": "Casque de Périclès",
     "categories": [8, 22],
     "description": "Histoire - Sur satin jaune",
-    "localisation": 1,
+    "localisation": 0,
     "image": "",
-    "filiere": 6
+    "filiere": 0
   },
   {
     "id": 57,
     "nom": "Palette et Pinceau (Histoire de l'Art)",
     "categories": [7, 8, 20],
     "description": "Histoire de l'Art - Sur satin jaune",
-    "localisation": 1,
+    "localisation": 0,
     "image": "",
-    "filiere": 6
+    "filiere": 0
   },
   {
     "id": 58,
     "nom": "Livre Ouvert avec Plume + LC",
     "categories": [8, 19],
     "description": "Lettres Classiques - Sur satin jaune",
-    "localisation": 1,
+    "localisation": 0,
     "image": "",
-    "filiere": 6
+    "filiere": 0
   },
   {
     "id": 59,
     "nom": "Livre Ouvert avec Plume + LM",
     "categories": [8, 19],
     "description": "Lettres Modernes - Sur satin jaune",
-    "localisation": 1,
+    "localisation": 0,
     "image": "",
-    "filiere": 6
+    "filiere": 0
   },
   {
     "id": 60,
     "nom": "Livre Ouvert avec Plume + LEA + Drapeaux",
     "categories": [8, 11, 19],
     "description": "Langues Étrangères Appliquées - Sur satin jaune",
-    "localisation": 1,
+    "localisation": 0,
     "image": "",
-    "filiere": 6
+    "filiere": 0
   },
   {
     "id": 61,
     "nom": "Livre Ouvert avec Plume + LLCE(R) + Drapeau",
     "categories": [8, 11, 19],
     "description": "Langue, Littérature et Civilisation Étrangère (et Régionale) - Sur satin jaune",
-    "localisation": 1,
+    "localisation": 0,
     "image": "",
-    "filiere": 6
+    "filiere": 0
   },
   {
     "id": 62,
     "nom": "Lettre φ (Philosophie)",
     "categories": [8, 19],
     "description": "Philosophie - Sur satin jaune",
-    "localisation": 1,
+    "localisation": 0,
     "image": "",
-    "filiere": 6
+    "filiere": 0
   },
   {
     "id": 63,
     "nom": "Lettre ψ (Psychologie)",
     "categories": [8, 19],
     "description": "Psychologie - Sur satin jaune",
-    "localisation": 1,
+    "localisation": 0,
     "image": "",
-    "filiere": 6
+    "filiere": 0
   },
   {
     "id": 64,
     "nom": "Lettres ψ + PRAT",
     "categories": [8, 19],
     "description": "Psychopraticien - Sur satin jaune",
-    "localisation": 1,
+    "localisation": 0,
     "image": "",
-    "filiere": 6
+    "filiere": 0
   },
   {
     "id": 65,
     "nom": "Nounours",
     "categories": [8],
     "description": "Sciences de l'Éducation - Sur satin jaune",
-    "localisation": 1,
+    "localisation": 0,
     "image": "",
-    "filiere": 6
+    "filiere": 0
   },
   {
     "id": 66,
     "nom": "Grenouille",
     "categories": [3, 8],
     "description": "Sociologie - Sur satin jaune",
-    "localisation": 1,
+    "localisation": 0,
     "image": "",
-    "filiere": 6
+    "filiere": 0
   },
   {
     "id": 67,
     "nom": "Lyre",
     "categories": [7, 8],
     "description": "Musique et/ou Musicologie - Sur satin argenté",
-    "localisation": 1,
+    "localisation": 0,
     "image": "",
-    "filiere": 1
+    "filiere": 0
   },
   {
     "id": 68,
     "nom": "Grappe de Raisin",
     "categories": [5, 8, 10, 21],
     "description": "Œnologie - Sur satin rose saumon",
-    "localisation": 1,
+    "localisation": 0,
     "image": "",
-    "filiere": 1
+    "filiere": 0
   },
   {
     "id": 69,
     "nom": "Palmes Croisées Chêne et Laurier + initiales discipline",
     "categories": [8, 21],
     "description": "Sciences + initiales de la discipline - Sur satin violet",
-    "localisation": 1,
+    "localisation": 0,
     "image": "",
-    "filiere": 13
+    "filiere": 0
   },
-    {
+  {
     "id": 70,
     "nom": "Étoile dorée",
     "categories": [8, 12],
     "description": "Une étoile dorée par année d'études commencée",
-    "localisation": 1,
+    "localisation": 0,
     "image": "",
-    "filiere": 1
+    "filiere": 0
   },
   {
     "id": 71,
     "nom": "Étoile argentée",
     "categories": [8, 13],
     "description": "Une étoile argentée par année d'études redoublée",
-    "localisation": 1,
+    "localisation": 0,
     "image": "",
-    "filiere": 1
+    "filiere": 0
   },
   {
     "id": 72,
     "nom": "Double palme",
     "categories": [8, 12, 21],
     "description": "Double palme pour l'obtention d'un diplôme de fin de cycle",
-    "localisation": 1,
+    "localisation": 0,
     "image": "",
-    "filiere": 1
+    "filiere": 0
   },
   {
     "id": 73,
     "nom": "Grande simple palme",
     "categories": [8, 12, 21],
     "description": "Grande simple palme pour Major de promo",
-    "localisation": 1,
+    "localisation": 0,
     "image": "",
-    "filiere": 1
+    "filiere": 0
   },
   {
     "id": 74,
     "nom": "Petite simple palme",
     "categories": [8, 21],
     "description": "Petite simple palme pour une fin de cycle sans diplôme",
-    "localisation": 1,
+    "localisation": 0,
     "image": "",
-    "filiere": 1
+    "filiere": 0
   },
   {
     "id": 75,
     "nom": "Tête de vache",
     "categories": [1, 8],
     "description": "Tête de vache pour toute réussite en deuxième session (rattrapages)",
-    "localisation": 1,
+    "localisation": 0,
     "image": "",
-    "filiere": 1
+    "filiere": 0
   },
   {
     "id": 76,
     "nom": "Tête de mort (échec)",
     "categories": [8, 13],
     "description": "Tête de mort pour tout échec ou abandon définitif dans une discipline",
-    "localisation": 1,
+    "localisation": 0,
     "image": "",
-    "filiere": 1
+    "filiere": 0
   },
   {
     "id": 77,
     "nom": "Drapeau du pays",
     "categories": [8, 11],
     "description": "Drapeau du pays placé sous l'étoile si l'année d'études a été effectuée à l'étranger",
-    "localisation": 1,
+    "localisation": 0,
     "image": "",
-    "filiere": 1
+    "filiere": 0
   },
   {
     "id": 78,
     "nom": "Lettre E",
     "categories": [8, 19],
     "description": "Petit E pour toute année obtenue par équivalence",
-    "localisation": 1,
+    "localisation": 0,
     "image": "",
-    "filiere": 1
+    "filiere": 0
   },
   {
     "id": 79,
     "nom": "Zéro",
     "categories": [8, 19],
     "description": "Zéro pour toute année sabbatique ou année de césure",
-    "localisation": 1,
+    "localisation": 0,
     "image": "",
-    "filiere": 1
+    "filiere": 0
   },
   {
     "id": 80,
     "nom": "Lettre A (alternance)",
     "categories": [8, 19],
     "description": "Lettre A sous l'étoile pour toute année d'étude en alternance",
-    "localisation": 1,
+    "localisation": 0,
     "image": "",
-    "filiere": 1
+    "filiere": 0
   },
   {
     "id": 81,
     "nom": "Petite simple palme + lettre C",
     "categories": [8, 12, 19, 21],
     "description": "Petite simple palme + lettre C pour le Capes",
-    "localisation": 1,
+    "localisation": 0,
     "image": "",
-    "filiere": 1
+    "filiere": 0
   },
   {
     "id": 82,
     "nom": "Petite simple palme + lettre A",
     "categories": [8, 12, 19, 21],
     "description": "Petite simple palme + lettre A pour l'Agrégation",
-    "localisation": 1,
+    "localisation": 0,
     "image": "",
-    "filiere": 1
+    "filiere": 0
   },
   {
     "id": 83,
     "nom": "Abeille",
     "categories": [0, 8, 12],
     "description": "Abeille décernée par une Croix pour tout parcours étudiant exemplaire (fin d'études sans redoublement ni rattrapage) - Placée après la dernière palme de diplôme",
-    "localisation": 1,
+    "localisation": 0,
     "image": "",
-    "filiere": 1
+    "filiere": 0
   },
   {
     "id": 84,
@@ -753,7 +753,7 @@
     "description": "Amour de l'aviation et/ou Brevet de pilote",
     "localisation": 1,
     "image": "",
-    "filiere": 1
+    "filiere": 0
   },
   {
     "id": 85,
@@ -762,7 +762,7 @@
     "description": "Amour de la navigation et/ou Permis bateau",
     "localisation": 1,
     "image": "",
-    "filiere": 1
+    "filiere": 0
   },
   {
     "id": 86,
@@ -771,7 +771,7 @@
     "description": "Pacsé",
     "localisation": 1,
     "image": "",
-    "filiere": 1
+    "filiere": 0
   },
   {
     "id": 87,
@@ -780,7 +780,7 @@
     "description": "Amour de l'Histoire",
     "localisation": 1,
     "image": "",
-    "filiere": 1
+    "filiere": 0
   },
   {
     "id": 88,
@@ -789,7 +789,7 @@
     "description": "Célibataire",
     "localisation": 1,
     "image": "",
-    "filiere": 1
+    "filiere": 0
   },
   {
     "id": 89,
@@ -798,7 +798,7 @@
     "description": "Cœur pris",
     "localisation": 1,
     "image": "",
-    "filiere": 1
+    "filiere": 0
   },
   {
     "id": 90,
@@ -807,7 +807,7 @@
     "description": "Amour de la bière",
     "localisation": 1,
     "image": "",
-    "filiere": 1
+    "filiere": 0
   },
   {
     "id": 91,
@@ -816,7 +816,7 @@
     "description": "A intégré",
     "localisation": 1,
     "image": "",
-    "filiere": 1
+    "filiere": 0
   },
   {
     "id": 92,
@@ -825,7 +825,7 @@
     "description": "A été intégré",
     "localisation": 1,
     "image": "",
-    "filiere": 1
+    "filiere": 0
   },
   {
     "id": 93,
@@ -834,7 +834,7 @@
     "description": "Grand sécheur de cours devant l'Éternel",
     "localisation": 1,
     "image": "",
-    "filiere": 1
+    "filiere": 0
   },
   {
     "id": 94,
@@ -843,7 +843,7 @@
     "description": "Membre d'une junior entreprise",
     "localisation": 1,
     "image": "",
-    "filiere": 1
+    "filiere": 0
   },
   {
     "id": 95,
@@ -852,7 +852,7 @@
     "description": "Chanceux aux examens",
     "localisation": 1,
     "image": "",
-    "filiere": 1
+    "filiere": 0
   },
   {
     "id": 96,
@@ -861,7 +861,7 @@
     "description": "Amour de l'électronique et/ou de l'informatique",
     "localisation": 1,
     "image": "",
-    "filiere": 1
+    "filiere": 0
   },
   {
     "id": 97,
@@ -870,7 +870,7 @@
     "description": "Passage de vie à trépas pendant un service hospitalier - Pour tout Faluchard du secteur santé découvrant un mort dans son service ou assistant au décès d'une personne",
     "localisation": 1,
     "image": "",
-    "filiere": 12
+    "filiere": 52
   },
   {
     "id": 98,
@@ -879,7 +879,7 @@
     "description": "Chanceux",
     "localisation": 1,
     "image": "",
-    "filiere": 1
+    "filiere": 0
   },
   {
     "id": 99,
@@ -888,7 +888,7 @@
     "description": "Perte de la virginité masculine pendant la vie falucharde",
     "localisation": 1,
     "image": "",
-    "filiere": 1
+    "filiere": 0
   },
   {
     "id": 100,
@@ -897,7 +897,7 @@
     "description": "Scout ou ancien scout",
     "localisation": 1,
     "image": "",
-    "filiere": 1
+    "filiere": 0
   },
   {
     "id": 101,
@@ -906,7 +906,7 @@
     "description": "Fin gourmet",
     "localisation": 1,
     "image": "",
-    "filiere": 1
+    "filiere": 0
   },
   {
     "id": 102,
@@ -915,7 +915,7 @@
     "description": "Amour du voyage",
     "localisation": 1,
     "image": "",
-    "filiere": 1
+    "filiere": 0
   },
   {
     "id": 103,
@@ -924,7 +924,7 @@
     "description": "Amour du bon vin",
     "localisation": 1,
     "image": "",
-    "filiere": 1
+    "filiere": 0
   },
   {
     "id": 104,
@@ -933,7 +933,7 @@
     "description": "Dagobit simple",
     "localisation": 1,
     "image": "",
-    "filiere": 1
+    "filiere": 0
   },
   {
     "id": 105,
@@ -942,7 +942,7 @@
     "description": "Dagobit double",
     "localisation": 1,
     "image": "",
-    "filiere": 1
+    "filiere": 0
   },
   {
     "id": 106,
@@ -951,7 +951,7 @@
     "description": "Dagobit multiple - On placera un exposant pour renseigner le nombre",
     "localisation": 1,
     "image": "",
-    "filiere": 1
+    "filiere": 0
   },
   {
     "id": 107,
@@ -960,7 +960,7 @@
     "description": "Amour de la musique",
     "localisation": 1,
     "image": "",
-    "filiere": 1
+    "filiere": 0
   },
   {
     "id": 108,
@@ -969,7 +969,7 @@
     "description": "Amour du théâtre et des arts de la scène",
     "localisation": 1,
     "image": "",
-    "filiere": 1
+    "filiere": 0
   },
   {
     "id": 109,
@@ -978,7 +978,7 @@
     "description": "Gros dormeur",
     "localisation": 1,
     "image": "",
-    "filiere": 1
+    "filiere": 0
   },
   {
     "id": 110,
@@ -987,7 +987,7 @@
     "description": "Amour de l'Art",
     "localisation": 1,
     "image": "",
-    "filiere": 1
+    "filiere": 0
   },
   {
     "id": 111,
@@ -996,7 +996,7 @@
     "description": "Marié(e)",
     "localisation": 1,
     "image": "",
-    "filiere": 1
+    "filiere": 0
   },
   {
     "id": 112,
@@ -1005,7 +1005,7 @@
     "description": "Amour de la littérature",
     "localisation": 1,
     "image": "",
-    "filiere": 1
+    "filiere": 0
   },
   {
     "id": 113,
@@ -1014,7 +1014,7 @@
     "description": "Perte de la virginité féminine pendant la vie falucharde",
     "localisation": 1,
     "image": "",
-    "filiere": 1
+    "filiere": 0
   },
   {
     "id": 114,
@@ -1023,7 +1023,7 @@
     "description": "Amour de la montagne",
     "localisation": 1,
     "image": "",
-    "filiere": 1
+    "filiere": 0
   },
   {
     "id": 115,
@@ -1032,7 +1032,7 @@
     "description": "Amour de l'anatomie en tant que matière",
     "localisation": 1,
     "image": "",
-    "filiere": 1
+    "filiere": 0
   },
   {
     "id": 116,
@@ -1041,7 +1041,7 @@
     "description": "Amour de l'anatomie féminine",
     "localisation": 1,
     "image": "",
-    "filiere": 1
+    "filiere": 0
   },
   {
     "id": 117,
@@ -1050,7 +1050,7 @@
     "description": "Amour de l'anatomie masculine",
     "localisation": 1,
     "image": "",
-    "filiere": 1
+    "filiere": 0
   },
   {
     "id": 118,
@@ -1059,7 +1059,7 @@
     "description": "Parent d'une fille",
     "localisation": 1,
     "image": "",
-    "filiere": 1
+    "filiere": 0
   },
   {
     "id": 119,
@@ -1068,7 +1068,7 @@
     "description": "Parent d'un garçon",
     "localisation": 1,
     "image": "",
-    "filiere": 1
+    "filiere": 0
   },
   {
     "id": 120,
@@ -1077,7 +1077,7 @@
     "description": "Polyglotte - Parle couramment au moins 3 langues",
     "localisation": 1,
     "image": "",
-    "filiere": 1
+    "filiere": 0
   },
   {
     "id": 121,
@@ -1086,7 +1086,7 @@
     "description": "Symbole de région - Lorrain",
     "localisation": 4,
     "image": "",
-    "filiere": 1
+    "filiere": 0
   },
   {
     "id": 122,
@@ -1095,7 +1095,7 @@
     "description": "Symbole de région - Provençal",
     "localisation": 4,
     "image": "",
-    "filiere": 1
+    "filiere": 0
   },
   {
     "id": 123,
@@ -1104,7 +1104,7 @@
     "description": "Symbole de région - Alsacien",
     "localisation": 4,
     "image": "",
-    "filiere": 1
+    "filiere": 0
   },
   {
     "id": 124,
@@ -1113,7 +1113,7 @@
     "description": "Symbole de région - Occitan",
     "localisation": 4,
     "image": "",
-    "filiere": 1
+    "filiere": 0
   },
   {
     "id": 125,
@@ -1122,7 +1122,7 @@
     "description": "Symbole de région - Dauphinois",
     "localisation": 4,
     "image": "",
-    "filiere": 1
+    "filiere": 0
   },
   {
     "id": 126,
@@ -1131,7 +1131,7 @@
     "description": "Symbole de région - Limousin",
     "localisation": 4,
     "image": "",
-    "filiere": 1
+    "filiere": 0
   },
   {
     "id": 127,
@@ -1140,7 +1140,7 @@
     "description": "Symbole de région - Normand - Lion allongé, tête de face",
     "localisation": 4,
     "image": "",
-    "filiere": 1
+    "filiere": 0
   },
   {
     "id": 128,
@@ -1149,7 +1149,7 @@
     "description": "Symbole de région - Lyonnais - Lion dressé, tête de profil",
     "localisation": 4,
     "image": "",
-    "filiere": 1
+    "filiere": 0
   },
   {
     "id": 129,
@@ -1158,7 +1158,7 @@
     "description": "Symbole de région - Breton",
     "localisation": 4,
     "image": "",
-    "filiere": 1
+    "filiere": 0
   },
   {
     "id": 130,
@@ -1167,7 +1167,7 @@
     "description": "Symbole de région - Bressan",
     "localisation": 4,
     "image": "",
-    "filiere": 1
+    "filiere": 0
   },
   {
     "id": 131,
@@ -1176,7 +1176,7 @@
     "description": "Symbole de région - Étudiant Breton monté à Paris",
     "localisation": 4,
     "image": "",
-    "filiere": 1
+    "filiere": 0
   },
   {
     "id": 132,
@@ -1185,7 +1185,7 @@
     "description": "Symbole de région - Ardennais",
     "localisation": 4,
     "image": "",
-    "filiere": 1
+    "filiere": 0
   },
   {
     "id": 133,
@@ -1194,7 +1194,7 @@
     "description": "Symbole de région - Catalan",
     "localisation": 4,
     "image": "",
-    "filiere": 1
+    "filiere": 0
   },
   {
     "id": 134,
@@ -1203,7 +1203,7 @@
     "description": "Symbole de région - Bourguignon",
     "localisation": 4,
     "image": "",
-    "filiere": 1
+    "filiere": 0
   },
   {
     "id": 135,
@@ -1212,7 +1212,7 @@
     "description": "Ne boit pas d'alcool - Choix personnel",
     "localisation": 1,
     "image": "",
-    "filiere": 1
+    "filiere": 0
   },
   {
     "id": 136,
@@ -1221,7 +1221,7 @@
     "description": "Ne boit pas d'alcool - Blâme pour une personne ne sachant pas se maîtriser",
     "localisation": 1,
     "image": "",
-    "filiere": 1
+    "filiere": 0
   },
   {
     "id": 137,
@@ -1230,7 +1230,7 @@
     "description": "Oiseau de nuit",
     "localisation": 1,
     "image": "",
-    "filiere": 1
+    "filiere": 0
   },
   {
     "id": 138,
@@ -1239,7 +1239,7 @@
     "description": "Grand(e) chasseur(euse) devant l'Éternel",
     "localisation": 1,
     "image": "",
-    "filiere": 1
+    "filiere": 0
   },
   {
     "id": 139,
@@ -1248,7 +1248,7 @@
     "description": "Radin",
     "localisation": 1,
     "image": "",
-    "filiere": 1
+    "filiere": 0
   },
   {
     "id": 140,
@@ -1257,7 +1257,7 @@
     "description": "Bouffe comme un gros porc",
     "localisation": 1,
     "image": "",
-    "filiere": 1
+    "filiere": 0
   },
   {
     "id": 141,
@@ -1266,7 +1266,7 @@
     "description": "Mène grand train",
     "localisation": 1,
     "image": "",
-    "filiere": 1
+    "filiere": 0
   },
   {
     "id": 142,
@@ -1275,7 +1275,7 @@
     "description": "A vomi dans sa faluche",
     "localisation": 1,
     "image": "",
-    "filiere": 1
+    "filiere": 0
   },
   {
     "id": 143,
@@ -1284,7 +1284,7 @@
     "description": "A vomi dans sa faluche et l'a remise sur sa tête",
     "localisation": 1,
     "image": "",
-    "filiere": 1
+    "filiere": 0
   },
   {
     "id": 144,
@@ -1293,7 +1293,7 @@
     "description": "Personne chaude",
     "localisation": 1,
     "image": "",
-    "filiere": 1
+    "filiere": 0
   },
   {
     "id": 145,
@@ -1302,7 +1302,7 @@
     "description": "Conducteur de fin de soirée",
     "localisation": 1,
     "image": "",
-    "filiere": 1
+    "filiere": 0
   },
   {
     "id": 146,
@@ -1311,7 +1311,7 @@
     "description": "Remerciement pour un travail fourni (Honneur) - Insigne associatif placé sur le ruban de l'association",
     "localisation": 3,
     "image": "",
-    "filiere": 1
+    "filiere": 0
   },
   {
     "id": 147,
@@ -1320,7 +1320,7 @@
     "description": "Remerciement pour le travail d'une année (Honneur) - Insigne associatif placé sur le ruban de l'association",
     "localisation": 3,
     "image": "",
-    "filiere": 1
+    "filiere": 0
   },
   {
     "id": 148,
@@ -1329,7 +1329,7 @@
     "description": "Remerciement exceptionnel pour toute une vie associative (Grand Honneur) - Insigne associatif placé sur le ruban de l'association",
     "localisation": 3,
     "image": "",
-    "filiere": 1
+    "filiere": 0
   },
   {
     "id": 149,
@@ -1338,7 +1338,7 @@
     "description": "Nuit blanche pour motif associatif hors évènement festif - Insigne associatif placé sur le ruban de l'association",
     "localisation": 3,
     "image": "",
-    "filiere": 1
+    "filiere": 0
   },
   {
     "id": 150,
@@ -1347,7 +1347,7 @@
     "description": "Nuit au poste pour motif associatif - Insigne associatif placé sur le ruban de l'association",
     "localisation": 3,
     "image": "",
-    "filiere": 1
+    "filiere": 0
   },
   {
     "id": 151,
@@ -1356,7 +1356,7 @@
     "description": "Fin baiseur - Insigne à caractère sexuel, suite à des pratiques sexuelles consenties et protégées",
     "localisation": 1,
     "image": "",
-    "filiere": 1
+    "filiere": 0
   },
   {
     "id": 152,
@@ -1365,7 +1365,7 @@
     "description": "Précoce - Insigne à caractère sexuel, suite à des pratiques sexuelles consenties et protégées",
     "localisation": 1,
     "image": "",
-    "filiere": 1
+    "filiere": 0
   },
   {
     "id": 153,
@@ -1374,7 +1374,7 @@
     "description": "Acte laborieux - Insigne à caractère sexuel, suite à des pratiques sexuelles consenties et protégées",
     "localisation": 1,
     "image": "",
-    "filiere": 1
+    "filiere": 0
   },
   {
     "id": 154,
@@ -1383,7 +1383,7 @@
     "description": "Fine baiseuse - Insigne à caractère sexuel, suite à des pratiques sexuelles consenties et protégées",
     "localisation": 1,
     "image": "",
-    "filiere": 1
+    "filiere": 0
   },
   {
     "id": 155,
@@ -1392,7 +1392,7 @@
     "description": "Dignité dans l'ivresse (Grand Honneur) - Marque des étudiants maîtres d'eux-mêmes face à de fortes doses d'alcool",
     "localisation": 1,
     "image": "",
-    "filiere": 1
+    "filiere": 0
   },
   {
     "id": 156,
@@ -1401,7 +1401,7 @@
     "description": "Digne chanteur de paillardes (Grand Honneur)",
     "localisation": 1,
     "image": "",
-    "filiere": 1
+    "filiere": 0
   },
   {
     "id": 157,
@@ -1410,7 +1410,7 @@
     "description": "Grande gueule sachant l'ouvrir (Honneur)",
     "localisation": 1,
     "image": "",
-    "filiere": 1
+    "filiere": 0
   },
   {
     "id": 158,
@@ -1419,7 +1419,7 @@
     "description": "Cordon bleu (Honneur)",
     "localisation": 1,
     "image": "",
-    "filiere": 1
+    "filiere": 0
   },
   {
     "id": 159,
@@ -1428,7 +1428,7 @@
     "description": "A ramené un trophée digne de ce nom (Honneur) - Sans dégâts ni vandalisme",
     "localisation": 1,
     "image": "",
-    "filiere": 1
+    "filiere": 0
   },
   {
     "id": 160,
@@ -1437,7 +1437,7 @@
     "description": "Gardien des traditions (Grand Honneur)",
     "localisation": 1,
     "image": "",
-    "filiere": 1
+    "filiere": 0
   },
   {
     "id": 161,
@@ -1446,7 +1446,7 @@
     "description": "Une par cuite certifiée (Blâme) - Excès éthyliques ayant conduit à une attitude particulièrement remarquée",
     "localisation": 1,
     "image": "",
-    "filiere": 1
+    "filiere": 0
   },
   {
     "id": 162,
@@ -1455,7 +1455,7 @@
     "description": "Une par coma éthylique certifié (Grand Blâme) - Certifié par les secouristes ou les pompiers",
     "localisation": 1,
     "image": "",
-    "filiere": 1
+    "filiere": 0
   },
   {
     "id": 163,
@@ -1464,7 +1464,7 @@
     "description": "Insulte au rôle de croix (Blâme) - Manqué de respect au rôle d'une Croix (GM ou GC)",
     "localisation": 1,
     "image": "",
-    "filiere": 1
+    "filiere": 0
   },
   {
     "id": 164,
@@ -1473,7 +1473,7 @@
     "description": "Personne lourde (Blâme)",
     "localisation": 1,
     "image": "",
-    "filiere": 1
+    "filiere": 0
   },
   {
     "id": 165,
@@ -1482,7 +1482,7 @@
     "description": "N'a pas cousu ses rubans seul (Blâme)",
     "localisation": 1,
     "image": "",
-    "filiere": 1
+    "filiere": 0
   },
   {
     "id": 166,
@@ -1491,7 +1491,7 @@
     "description": "Quémandeur d'insignes et/ou de rubans (Grand Blâme) - Gèle la faluche",
     "localisation": 1,
     "image": "",
-    "filiere": 1
+    "filiere": 0
   },
   {
     "id": 167,
@@ -1500,7 +1500,7 @@
     "description": "A vomi honteusement (Blâme)",
     "localisation": 1,
     "image": "",
-    "filiere": 1
+    "filiere": 0
   },
   {
     "id": 168,
@@ -1509,7 +1509,7 @@
     "description": "Élu aux conseils d'UFR et/ou de composantes - Une par année de mandat - Sur ruban jaune frontal-occipital",
     "localisation": 2,
     "image": "",
-    "filiere": 1
+    "filiere": 0
   },
   {
     "id": 169,
@@ -1518,7 +1518,7 @@
     "description": "Élu aux conseils centraux (CA et/ou Conseil d'Université) - Une par année de mandat - Sur ruban jaune frontal-occipital",
     "localisation": 2,
     "image": "",
-    "filiere": 1
+    "filiere": 0
   },
   {
     "id": 170,
@@ -1527,7 +1527,7 @@
     "description": "Élu au CROUS - Une par année de mandat - Sur ruban jaune frontal-occipital",
     "localisation": 2,
     "image": "",
-    "filiere": 1
+    "filiere": 0
   },
   {
     "id": 171,
@@ -1536,7 +1536,7 @@
     "description": "Élu au CNOUS - Une par année de mandat - Sur ruban jaune frontal-occipital",
     "localisation": 2,
     "image": "",
-    "filiere": 1
+    "filiere": 0
   },
   {
     "id": 172,
@@ -1545,7 +1545,7 @@
     "description": "Élus aux autres conseils (CNESER, OVE, CRSU, etc) - Sur ruban jaune frontal-occipital",
     "localisation": 2,
     "image": "",
-    "filiere": 1
+    "filiere": 0
   },
   {
     "id": 173,
@@ -1554,7 +1554,7 @@
     "description": "Vice-Présidents Étudiants d'université - Sur ruban jaune frontal-occipital",
     "localisation": 2,
     "image": "",
-    "filiere": 1
+    "filiere": 0
   },
   {
     "id": 174,
@@ -1563,7 +1563,7 @@
     "description": "Vice-Doyens Étudiants - Sur ruban jaune frontal-occipital",
     "localisation": 2,
     "image": "",
-    "filiere": 1
+    "filiere": 0
   },
   {
     "id": 175,
@@ -1572,7 +1572,7 @@
     "description": "Délégués mutualistes - Sur ruban jaune frontal-occipital",
     "localisation": 2,
     "image": "",
-    "filiere": 1
+    "filiere": 0
   },
   {
     "id": 176,
@@ -1581,7 +1581,7 @@
     "description": "Années de mandat pour les délégués de promo - Sur ruban jaune frontal-occipital",
     "localisation": 2,
     "image": "",
-    "filiere": 1
+    "filiere": 0
   },
   {
     "id": 177,
@@ -1590,7 +1590,7 @@
     "description": "Élus au conseil de discipline - Sur ruban jaune frontal-occipital",
     "localisation": 2,
     "image": "",
-    "filiere": 1
+    "filiere": 0
   },
   {
     "id": 178,
@@ -1599,16 +1599,16 @@
     "description": "Élus au conseil de bibliothèque - Sur ruban jaune frontal-occipital",
     "localisation": 2,
     "image": "",
-    "filiere": 1
+    "filiere": 0
   },
   {
     "id": 179,
-    "nom": "Caducée mercure (finances)",
+    "nom": "Caducée mercure",
     "categories": [16],
     "description": "Élus au conseil des finances de l'Université - Sur ruban jaune frontal-occipital",
     "localisation": 2,
     "image": "",
-    "filiere": 1
+    "filiere": 0
   },
   {
     "id": 180,
@@ -1617,7 +1617,7 @@
     "description": "Élus européens - Sur ruban jaune frontal-occipital",
     "localisation": 2,
     "image": "",
-    "filiere": 1
+    "filiere": 0
   },
   {
     "id": 181,
@@ -1626,16 +1626,16 @@
     "description": "Élus internationaux - Sur ruban jaune frontal-occipital",
     "localisation": 2,
     "image": "",
-    "filiere": 1
+    "filiere": 0
   },
   {
     "id": 182,
-    "nom": "Bouteille de bordeaux (Corpo)",
+    "nom": "Bouteille de bordeaux",
     "categories": [5, 13],
     "description": "A été lourd sous l'effet de l'alcool",
     "localisation": 1,
     "image": "",
-    "filiere": 2
+    "filiere": 12
   },
   {
     "id": 183,
@@ -1644,7 +1644,7 @@
     "description": "Parrain de faluchage - En partie personnelle surmontant les initiales du/des fillot(e)(s)",
     "localisation": 1,
     "image": "",
-    "filiere": 2
+    "filiere": 12
   },
   {
     "id": 184,
@@ -1653,16 +1653,16 @@
     "description": "Faluchage - En partie occipitale gauche surmontant les initiales de la marraine/du parrain",
     "localisation": 1,
     "image": "",
-    "filiere": 2
+    "filiere": 12
   },
   {
     "id": 185,
-    "nom": "Double palme (Corpo)",
+    "nom": "Double palme",
     "categories": [12, 21],
     "description": "Remerciement pour un travail remarquable",
     "localisation": 1,
     "image": "",
-    "filiere": 2
+    "filiere": 12
   },
   {
     "id": 186,
@@ -1671,7 +1671,7 @@
     "description": "Ancien scout",
     "localisation": 1,
     "image": "",
-    "filiere": 2
+    "filiere": 12
   },
   {
     "id": 187,
@@ -1680,7 +1680,7 @@
     "description": "Chirurgie Dentaire - Provenance Dijon",
     "localisation": 1,
     "image": "",
-    "filiere": 3
+    "filiere": 2
   },
   {
     "id": 188,
@@ -1689,16 +1689,16 @@
     "description": "Chirurgie Dentaire - Provenance Grenoble - Leurs initiales en lettres brodées",
     "localisation": 1,
     "image": "",
-    "filiere": 3
+    "filiere": 2
   },
   {
     "id": 189,
-    "nom": "Initiales LE (Dentaire)",
+    "nom": "Initiales LE",
     "categories": [6, 11, 19],
     "description": "Chirurgie Dentaire - Provenance Lyon Est",
     "localisation": 1,
     "image": "",
-    "filiere": 3
+    "filiere": 2
   },
   {
     "id": 190,
@@ -1707,16 +1707,16 @@
     "description": "Chirurgie Dentaire - Provenance Lyon Nord",
     "localisation": 1,
     "image": "",
-    "filiere": 3
+    "filiere": 2
   },
   {
     "id": 191,
-    "nom": "Initiales LS (Dentaire)",
+    "nom": "Initiales LS",
     "categories": [6, 11, 19],
     "description": "Chirurgie Dentaire - Provenance Lyon Sud",
     "localisation": 1,
     "image": "",
-    "filiere": 3
+    "filiere": 2
   },
   {
     "id": 192,
@@ -1725,7 +1725,7 @@
     "description": "Chirurgie Dentaire - Provenance Saint-Étienne",
     "localisation": 1,
     "image": "",
-    "filiere": 3
+    "filiere": 2
   },
   {
     "id": 193,
@@ -1734,7 +1734,7 @@
     "description": "69 de CPE (Grand Blâme)",
     "localisation": 1,
     "image": "",
-    "filiere": 4
+    "filiere": 45
   },
   {
     "id": 194,
@@ -1743,7 +1743,7 @@
     "description": "Participation aux I5",
     "localisation": 5,
     "image": "",
-    "filiere": 4
+    "filiere": 45
   },
   {
     "id": 195,
@@ -1752,25 +1752,25 @@
     "description": "Organisation Hard aux I5",
     "localisation": 3,
     "image": "",
-    "filiere": 4
+    "filiere": 45
   },
   {
     "id": 196,
-    "nom": "Lapin (Ingénieur)",
+    "nom": "Lapin",
     "categories": [1, 9],
     "description": "Amour de la culbute - Décerné sur demande du ou de la partenaire",
     "localisation": 1,
     "image": "",
-    "filiere": 4
+    "filiere": 45
   },
   {
     "id": 197,
-    "nom": "Tête de cheval (Ingénieur)",
+    "nom": "Tête de cheval",
     "categories": [1, 13],
     "description": "Gros bourrin",
     "localisation": 1,
     "image": "",
-    "filiere": 4
+    "filiere": 45
   },
   {
     "id": 198,
@@ -1779,16 +1779,16 @@
     "description": "Événement déficitaire - Déficit en exposant en K€ - Sur ruban d'asso",
     "localisation": 3,
     "image": "",
-    "filiere": 4
+    "filiere": 45
   },
   {
     "id": 199,
-    "nom": "Vélo en partie personnelle",
+    "nom": "Vélo",
     "categories": [14, 15],
     "description": "Participation à la course des 24h de l'INSA",
     "localisation": 1,
     "image": "",
-    "filiere": 4
+    "filiere": 45
   },
   {
     "id": 200,
@@ -1797,7 +1797,7 @@
     "description": "Organisation de la course des 24h de l'INSA",
     "localisation": 3,
     "image": "",
-    "filiere": 4
+    "filiere": 45
   },
   {
     "id": 201,
@@ -1806,7 +1806,7 @@
     "description": "Élu au CVC (Conseil de Vie de Campus) - Sur ruban d'élu",
     "localisation": 2,
     "image": "",
-    "filiere": 4
+    "filiere": 45
   },
   {
     "id": 202,
@@ -1815,7 +1815,7 @@
     "description": "Fiancé(e)",
     "localisation": 1,
     "image": "",
-    "filiere": 4
+    "filiere": 45
   },
   {
     "id": 203,
@@ -1824,16 +1824,16 @@
     "description": "Amour du jeu de rôle et/ou de société",
     "localisation": 1,
     "image": "",
-    "filiere": 4
+    "filiere": 45
   },
   {
     "id": 204,
-    "nom": "Lettre C (césure)",
+    "nom": "Lettre C",
     "categories": [8, 19],
     "description": "Année de césure",
     "localisation": 1,
     "image": "",
-    "filiere": 4
+    "filiere": 45
   },
   {
     "id": 205,
@@ -1842,7 +1842,7 @@
     "description": "Élu au Conseil de Vie Associative - Sur ruban d'élu",
     "localisation": 2,
     "image": "",
-    "filiere": 4
+    "filiere": 45
   },
   {
     "id": 206,
@@ -1851,7 +1851,7 @@
     "description": "Année spéciale - DUT réalisé en 1 an",
     "localisation": 1,
     "image": "",
-    "filiere": 5
+    "filiere": 23
   },
   {
     "id": 207,
@@ -1864,12 +1864,12 @@
   },
   {
     "id": 208,
-    "nom": "Lettre A sous étoile (IUT)",
+    "nom": "Lettre A sous étoile",
     "categories": [8, 19],
     "description": "Année en alternance - Lettre A sous étoile d'année d'étude",
     "localisation": 1,
     "image": "",
-    "filiere": 5
+    "filiere": 23
   },
   {
     "id": 209,
@@ -1878,7 +1878,7 @@
     "description": "Licence professionnelle - Lettres LP + Initiales de la licence",
     "localisation": 1,
     "image": "",
-    "filiere": 5
+    "filiere": 23
   },
   {
     "id": 210,
@@ -1887,7 +1887,7 @@
     "description": "A nettoyé Feyssine (dans le cadre d'une clean walk)",
     "localisation": 1,
     "image": "",
-    "filiere": 5
+    "filiere": 23
   },
   {
     "id": 211,
@@ -1896,7 +1896,7 @@
     "description": "Amour des Lamas",
     "localisation": 1,
     "image": "",
-    "filiere": 5
+    "filiere": 23
   },
   {
     "id": 212,
@@ -1905,7 +1905,7 @@
     "description": "Se plie correctement (position de base)",
     "localisation": 1,
     "image": "",
-    "filiere": 5
+    "filiere": 23
   },
   {
     "id": 213,
@@ -1914,7 +1914,7 @@
     "description": "Impliable - Dès que tu as plié 3 personnes au bar",
     "localisation": 1,
     "image": "",
-    "filiere": 5
+    "filiere": 23
   },
   {
     "id": 214,
@@ -1923,7 +1923,7 @@
     "description": "A été baptisé.e à la Feyssine",
     "localisation": 1,
     "image": "",
-    "filiere": 5
+    "filiere": 23
   },
   {
     "id": 215,
@@ -1932,7 +1932,7 @@
     "description": "Digne danseur·se de chorées",
     "localisation": 1,
     "image": "",
-    "filiere": 5
+    "filiere": 23
   },
   {
     "id": 216,
@@ -1941,7 +1941,7 @@
     "description": "Est passé·e au code 14-18",
     "localisation": 1,
     "image": "",
-    "filiere": 5
+    "filiere": 23
   },
   {
     "id": 217,
@@ -1950,7 +1950,7 @@
     "description": "S'est endormi devant les caissons",
     "localisation": 1,
     "image": "",
-    "filiere": 5
+    "filiere": 23
   },
   {
     "id": 218,
@@ -1959,7 +1959,7 @@
     "description": "Est monté·e à Feyssine après son baptême",
     "localisation": 1,
     "image": "",
-    "filiere": 5
+    "filiere": 23
   },
   {
     "id": 219,
@@ -1968,16 +1968,16 @@
     "description": "Remerciement pour son investissement dans la filière (honneur)",
     "localisation": 1,
     "image": "",
-    "filiere": 5
+    "filiere": 23
   },
   {
     "id": 220,
-    "nom": "Simple palme sur ruban d'association (IUT)",
+    "nom": "Simple palme sur ruban d'association",
     "categories": [12, 16, 21],
     "description": "Membre d'honneur",
     "localisation": 3,
     "image": "",
-    "filiere": 5
+    "filiere": 23
   },
   {
     "id": 221,
@@ -1986,7 +1986,7 @@
     "description": "Gardien des traditions (Grand Honneur)",
     "localisation": 0,
     "image": "",
-    "filiere": 6
+    "filiere": 50
   },
   {
     "id": 222,
@@ -1995,7 +1995,7 @@
     "description": "Goliard (Grand Honneur)",
     "localisation": 0,
     "image": "",
-    "filiere": 6
+    "filiere": 50
   },
   {
     "id": 223,
@@ -2004,7 +2004,7 @@
     "description": "Dévotion (Honneur)",
     "localisation": 1,
     "image": "",
-    "filiere": 6
+    "filiere": 50
   },
   {
     "id": 224,
@@ -2013,7 +2013,7 @@
     "description": "Forceur.se : non-respect des limites d'autrui (Blâme)",
     "localisation": 1,
     "image": "",
-    "filiere": 6
+    "filiere": 50
   },
   {
     "id": 225,
@@ -2022,7 +2022,7 @@
     "description": "Aigris",
     "localisation": 1,
     "image": "",
-    "filiere": 6
+    "filiere": 50
   },
   {
     "id": 226,
@@ -2031,25 +2031,25 @@
     "description": "Sado-Maso - Origine à l'AE2L",
     "localisation": 1,
     "image": "",
-    "filiere": 6
+    "filiere": 50
   },
   {
     "id": 227,
-    "nom": "Lapin (LSH)",
+    "nom": "Lapin",
     "categories": [1, 17],
     "description": "Retardataire",
     "localisation": 1,
     "image": "",
-    "filiere": 6
+    "filiere": 50
   },
   {
     "id": 228,
-    "nom": "Lime (LSH)",
+    "nom": "Lime",
     "categories": [9, 20],
     "description": "Gros Baiseur",
     "localisation": 1,
     "image": "",
-    "filiere": 6
+    "filiere": 50
   },
   {
     "id": 229,
@@ -2058,7 +2058,7 @@
     "description": "Fornique Bruyamment",
     "localisation": 1,
     "image": "",
-    "filiere": 6
+    "filiere": 50
   },
   {
     "id": 230,
@@ -2067,34 +2067,34 @@
     "description": "Troubles de l'attention",
     "localisation": 1,
     "image": "",
-    "filiere": 6
+    "filiere": 50
   },
   {
     "id": 231,
-    "nom": "X (LSH)",
+    "nom": "X",
     "categories": [17, 19],
     "description": "Trouble dys",
     "localisation": 1,
     "image": "",
-    "filiere": 6
+    "filiere": 50
   },
   {
     "id": 232,
-    "nom": "Initiales LS (Médecine)",
+    "nom": "Initiales LS",
     "categories": [6, 11, 19],
     "description": "Médecine - Provenance Lyon Sud",
     "localisation": 1,
     "image": "",
-    "filiere": 7
+    "filiere": 49
   },
   {
     "id": 233,
-    "nom": "Initiales LE (Médecine)",
+    "nom": "Initiales LE",
     "categories": [6, 11, 19],
     "description": "Médecine - Provenance Lyon Est",
     "localisation": 1,
     "image": "",
-    "filiere": 8
+    "filiere": 48
   },
   {
     "id": 234,
@@ -2103,7 +2103,7 @@
     "description": "A fait quelque chose de sale",
     "localisation": 1,
     "image": "",
-    "filiere": 8
+    "filiere": 48
   },
   {
     "id": 235,
@@ -2112,7 +2112,7 @@
     "description": "Grande gueule ne sachant pas la fermer",
     "localisation": 1,
     "image": "",
-    "filiere": 8
+    "filiere": 48
   },
   {
     "id": 236,
@@ -2121,7 +2121,7 @@
     "description": "Bouffeur de glands",
     "localisation": 1,
     "image": "",
-    "filiere": 8
+    "filiere": 48
   },
   {
     "id": 237,
@@ -2130,7 +2130,7 @@
     "description": "Manque de fairplay",
     "localisation": 1,
     "image": "",
-    "filiere": 8
+    "filiere": 48
   },
   {
     "id": 238,
@@ -2139,7 +2139,7 @@
     "description": "Lourdeur devant l'éternel",
     "localisation": 1,
     "image": "",
-    "filiere": 8
+    "filiere": 48
   },
   {
     "id": 239,
@@ -2148,16 +2148,16 @@
     "description": "Digne présentateur d'étudiants (Grand Honneur)",
     "localisation": 1,
     "image": "",
-    "filiere": 8
+    "filiere": 48
   },
   {
     "id": 240,
-    "nom": "Sanglier (Médecine)",
+    "nom": "Sanglier",
     "categories": [1, 13],
     "description": "Vomit bruyamment",
     "localisation": 1,
     "image": "",
-    "filiere": 8
+    "filiere": 48
   },
   {
     "id": 241,
@@ -2166,7 +2166,7 @@
     "description": "S'est pris un vent mémorable après avoir sérieusement chauffé une personne",
     "localisation": 1,
     "image": "",
-    "filiere": 8
+    "filiere": 48
   },
   {
     "id": 242,
@@ -2175,7 +2175,7 @@
     "description": "Amour du foot",
     "localisation": 1,
     "image": "",
-    "filiere": 8
+    "filiere": 48
   },
   {
     "id": 243,
@@ -2184,7 +2184,7 @@
     "description": "Gros beauf",
     "localisation": 1,
     "image": "",
-    "filiere": 8
+    "filiere": 48
   },
   {
     "id": 244,
@@ -2193,7 +2193,7 @@
     "description": "Amour de la sodomie - Active",
     "localisation": 1,
     "image": "",
-    "filiere": 8
+    "filiere": 48
   },
   {
     "id": 245,
@@ -2202,7 +2202,7 @@
     "description": "Amour de la sodomie - Passive",
     "localisation": 1,
     "image": "",
-    "filiere": 8
+    "filiere": 48
   },
   {
     "id": 246,
@@ -2211,7 +2211,7 @@
     "description": "Flirt ou coucherie avec un prof",
     "localisation": 1,
     "image": "",
-    "filiere": 9
+    "filiere": 3
   },
   {
     "id": 247,
@@ -2220,16 +2220,16 @@
     "description": "Spé pédiatrie",
     "localisation": 1,
     "image": "",
-    "filiere": 9
+    "filiere": 3
   },
   {
     "id": 248,
-    "nom": "Bouteille de bordeaux à l'envers (Ostéo)",
+    "nom": "Bouteille de bordeaux à l'envers",
     "categories": [5, 18],
     "description": "Baptême achevé",
     "localisation": 1,
     "image": "",
-    "filiere": 9
+    "filiere": 3
   },
   {
     "id": 249,
@@ -2238,25 +2238,25 @@
     "description": "A vomi pendant la Marseillaise",
     "localisation": 1,
     "image": "",
-    "filiere": 9
+    "filiere": 3
   },
   {
     "id": 250,
-    "nom": "Coq à l'envers (Ostéo)",
+    "nom": "Coq à l'envers",
     "categories": [1, 7],
     "description": "Chanteur de l'hymne ostéo",
     "localisation": 1,
     "image": "",
-    "filiere": 9
+    "filiere": 3
   },
   {
     "id": 251,
-    "nom": "Balance sur ∞ (Paramed)",
+    "nom": "Balance sur ∞",
     "categories": [9, 20],
     "description": "Pacsé(e) - À l'initiative de NouvLStar",
     "localisation": 1,
     "image": "",
-    "filiere": 12
+    "filiere": 5
   },
   {
     "id": 252,
@@ -2265,7 +2265,7 @@
     "description": "Femme enceinte - En l'honneur de Shounga",
     "localisation": 1,
     "image": "",
-    "filiere": 12
+    "filiere": 5
   },
   {
     "id": 253,
@@ -2274,7 +2274,7 @@
     "description": "Est parti pour un projet humanitaire",
     "localisation": 1,
     "image": "",
-    "filiere": 12
+    "filiere": 5
   },
   {
     "id": 254,
@@ -2283,7 +2283,7 @@
     "description": "A participé à l'effort de guerre pendant la crise sanitaire - En l'honneur de Pédirurale",
     "localisation": 1,
     "image": "",
-    "filiere": 12
+    "filiere": 5
   },
   {
     "id": 255,
@@ -2292,7 +2292,7 @@
     "description": "A créé sa chanson de baptême",
     "localisation": 1,
     "image": "",
-    "filiere": 12
+    "filiere": 5
   },
   {
     "id": 256,
@@ -2301,7 +2301,7 @@
     "description": "Digne danseur de chorée",
     "localisation": 1,
     "image": "",
-    "filiere": 12
+    "filiere": 5
   },
   {
     "id": 257,
@@ -2310,7 +2310,7 @@
     "description": "A construit sa maison tout seul - En l'honneur de Miguel",
     "localisation": 1,
     "image": "",
-    "filiere": 12
+    "filiere": 5
   },
   {
     "id": 258,
@@ -2319,7 +2319,7 @@
     "description": "Champion de raquette de plage - ART DE LA MER Dunkerque",
     "localisation": 1,
     "image": "",
-    "filiere": 12
+    "filiere": 5
   },
   {
     "id": 259,
@@ -2328,7 +2328,7 @@
     "description": "Coule (se prononce cool s'écrit c00l) - ART DE LA MER Dunkerque",
     "localisation": 1,
     "image": "",
-    "filiere": 12
+    "filiere": 5
   },
   {
     "id": 260,
@@ -2337,7 +2337,7 @@
     "description": "Cétacé ! (Seulement quand le grand mollusque en a trop marre du faluchard !) - ART DE LA MER Dunkerque",
     "localisation": 1,
     "image": "",
-    "filiere": 12
+    "filiere": 5
   },
   {
     "id": 261,
@@ -2346,7 +2346,7 @@
     "description": "Amateur de gueuleton - ART DE LA MER Dunkerque",
     "localisation": 1,
     "image": "",
-    "filiere": 12
+    "filiere": 5
   },
   {
     "id": 262,
@@ -2355,43 +2355,43 @@
     "description": "Aime bronzer avec un cocktail - ART DE LA MER Dunkerque",
     "localisation": 1,
     "image": "",
-    "filiere": 12
+    "filiere": 5
   },
   {
     "id": 263,
-    "nom": "69 (Pharmacie)",
+    "nom": "69",
     "categories": [9, 19],
     "description": "Grand faiseur de Jacques Mayol",
     "localisation": 1,
     "image": "",
-    "filiere": 10
+    "filiere": 7
   },
   {
     "id": 264,
-    "nom": "Ballon de foot (Pharmacie)",
+    "nom": "Ballon de foot",
     "categories": [13, 15, 17],
     "description": "Beauf devant l'Éternel",
     "localisation": 1,
     "image": "",
-    "filiere": 10
+    "filiere": 7
   },
   {
     "id": 265,
-    "nom": "Cigogne (Pharmacie)",
+    "nom": "Cigogne",
     "categories": [2, 12, 18],
     "description": "Parrain ou Marraine exceptionnel(le) - Remis par le fillot(e)",
     "localisation": 1,
     "image": "",
-    "filiere": 10
+    "filiere": 7
   },
   {
     "id": 266,
-    "nom": "Cocotte en papier (Pharmacie)",
+    "nom": "Cocotte en papier",
     "categories": [8, 16],
     "description": "Travail sur Ronéo",
     "localisation": 1,
     "image": "",
-    "filiere": 10
+    "filiere": 7
   },
   {
     "id": 267,
@@ -2400,7 +2400,7 @@
     "description": "Nuit à l'hôpital pour motif d'ivresse - Prise de sang à l'appui",
     "localisation": 1,
     "image": "",
-    "filiere": 10
+    "filiere": 7
   },
   {
     "id": 268,
@@ -2409,7 +2409,7 @@
     "description": "Dyslexique",
     "localisation": 1,
     "image": "",
-    "filiere": 10
+    "filiere": 7
   },
   {
     "id": 269,
@@ -2418,7 +2418,7 @@
     "description": "Amour de la charcuterie",
     "localisation": 1,
     "image": "",
-    "filiere": 10
+    "filiere": 7
   },
   {
     "id": 270,
@@ -2427,34 +2427,34 @@
     "description": "Amateur de demi-molle en fin de soirée",
     "localisation": 1,
     "image": "",
-    "filiere": 10
+    "filiere": 7
   },
   {
     "id": 271,
-    "nom": "Initiales LE (Sage-Femme)",
+    "nom": "Initiales LE",
     "categories": [6, 11, 19],
     "description": "Sage-Femme - Provenance Lyon Est",
     "localisation": 1,
     "image": "",
-    "filiere": 11
+    "filiere": 10
   },
   {
     "id": 272,
-    "nom": "Initiales LS (Sage-Femme)",
+    "nom": "Initiales LS",
     "categories": [6, 11, 19],
     "description": "Sage-Femme - Provenance Lyon Sud",
     "localisation": 1,
     "image": "",
-    "filiere": 11
+    "filiere": 10
   },
   {
     "id": 273,
-    "nom": "Initiales SE (Sage-Femme)",
+    "nom": "Initiales SE",
     "categories": [6, 11, 19],
     "description": "Sage-Femme - Provenance Saint-Étienne",
     "localisation": 1,
     "image": "",
-    "filiere": 11
+    "filiere": 10
   },
   {
     "id": 274,
@@ -2463,7 +2463,7 @@
     "description": "Protégé(e) - En l'honneur de BridOuz^102",
     "localisation": 1,
     "image": "",
-    "filiere": 11
+    "filiere": 10
   },
   {
     "id": 275,
@@ -2472,7 +2472,7 @@
     "description": "Amour de Céline Dion devant l'éternel",
     "localisation": 1,
     "image": "",
-    "filiere": 11
+    "filiere": 10
   },
   {
     "id": 276,
@@ -2481,7 +2481,7 @@
     "description": "Répulsion de Céline Dion devant l'éternel",
     "localisation": 1,
     "image": "",
-    "filiere": 11
+    "filiere": 10
   },
   {
     "id": 277,
@@ -2490,7 +2490,7 @@
     "description": "A été victime de jet liquidien",
     "localisation": 1,
     "image": "",
-    "filiere": 11
+    "filiere": 10
   },
   {
     "id": 278,
@@ -2499,16 +2499,16 @@
     "description": "Amour de la glisse",
     "localisation": 1,
     "image": "",
-    "filiere": 11
+    "filiere": 10
   },
   {
     "id": 279,
-    "nom": "Vélo (Sage-Femme)",
+    "nom": "Vélo",
     "categories": [14, 17],
     "description": "Experte en col",
     "localisation": 1,
     "image": "",
-    "filiere": 11
+    "filiere": 10
   },
   {
     "id": 280,
@@ -2517,7 +2517,7 @@
     "description": "Niaiserie devant l'éternel",
     "localisation": 1,
     "image": "",
-    "filiere": 11
+    "filiere": 10
   },
   {
     "id": 281,
@@ -2526,7 +2526,7 @@
     "description": "A quitté le service actif - Après l'étoile de l'année de départ - Sur le circulaire",
     "localisation": 0,
     "image": "",
-    "filiere": 12
+    "filiere": 52
   },
   {
     "id": 282,
@@ -2535,7 +2535,7 @@
     "description": "Un pour sept jours de Trou - Sur le velours",
     "localisation": 1,
     "image": "",
-    "filiere": 12
+    "filiere": 52
   },
   {
     "id": 283,
@@ -2544,7 +2544,7 @@
     "description": "Indécis - Sur le velours",
     "localisation": 1,
     "image": "",
-    "filiere": 12
+    "filiere": 52
   },
   {
     "id": 284,
@@ -2553,16 +2553,16 @@
     "description": "Nul à chier - Sur le velours",
     "localisation": 1,
     "image": "",
-    "filiere": 12
+    "filiere": 52
   },
   {
     "id": 285,
-    "nom": "Moule (Sciences)",
+    "nom": "Moule",
     "categories": [0, 16],
     "description": "Vice-Président Étudiant (VPE) - Une par année de mandat",
     "localisation": 1,
     "image": "",
-    "filiere": 13
+    "filiere": 40
   },
   {
     "id": 286,
@@ -2571,34 +2571,34 @@
     "description": "Possède un prénom digne de la filière SEC - Décerné uniquement aux extés par la filière SEC",
     "localisation": 1,
     "image": "",
-    "filiere": 14
+    "filiere": 51
   },
   {
     "id": 287,
-    "nom": "Lacet de cuir (SEC)",
+    "nom": "Lacet de cuir",
     "categories": [9],
     "description": "Sado-Maso - Trouve son origine à l'AE2L",
     "localisation": 1,
     "image": "",
-    "filiere": 14
+    "filiere": 51
   },
   {
     "id": 288,
-    "nom": "Lime (SEC)",
+    "nom": "Lime",
     "categories": [9, 13, 20],
     "description": "Insulte à GM (blâme)",
     "localisation": 1,
     "image": "",
-    "filiere": 14
+    "filiere": 51
   },
   {
     "id": 289,
-    "nom": "Balance (STAPS)",
+    "nom": "Balance",
     "categories": [13, 20],
     "description": "Colporteur de ragots (Blâme)",
     "localisation": 1,
     "image": "",
-    "filiere": 15
+    "filiere": 42
   },
   {
     "id": 290,
@@ -2607,7 +2607,7 @@
     "description": "Grand Délateur (Honneur)",
     "localisation": 1,
     "image": "",
-    "filiere": 15
+    "filiere": 42
   },
   {
     "id": 291,
@@ -2616,7 +2616,7 @@
     "description": "Chope des moches",
     "localisation": 1,
     "image": "",
-    "filiere": 15
+    "filiere": 42
   },
   {
     "id": 292,
@@ -2625,7 +2625,7 @@
     "description": "A participé à une compétition sportive durant sa vie étudiante - Niveau international",
     "localisation": 1,
     "image": "",
-    "filiere": 15
+    "filiere": 42
   },
   {
     "id": 293,
@@ -2634,7 +2634,7 @@
     "description": "A participé à une compétition sportive durant sa vie étudiante - Niveau européen",
     "localisation": 1,
     "image": "",
-    "filiere": 15
+    "filiere": 42
   },
   {
     "id": 294,
@@ -2643,16 +2643,16 @@
     "description": "A participé à une compétition sportive durant sa vie étudiante - Niveau national",
     "localisation": 1,
     "image": "",
-    "filiere": 15
+    "filiere": 42
   },
   {
     "id": 295,
-    "nom": "Moule (STAPS)",
+    "nom": "Moule",
     "categories": [0, 16],
     "description": "Vice-Président Étudiant STAPS - Une par année de mandat - Sur ruban d'élu",
     "localisation": 2,
     "image": "",
-    "filiere": 15
+    "filiere": 42
   },
   {
     "id": 296,
@@ -2661,16 +2661,16 @@
     "description": "Décernée à toute chaudasse émérite de la Catho",
     "localisation": 1,
     "image": "",
-    "filiere": 16
+    "filiere": 47
   },
   {
     "id": 297,
-    "nom": "M (Catho)",
+    "nom": "M",
     "categories": [13, 17, 19],
     "description": "Misère - Décerné à tout pessimiste et casse bonbon notoire",
     "localisation": 1,
     "image": "",
-    "filiere": 16
+    "filiere": 47
   },
   {
     "id": 298,
@@ -2679,25 +2679,25 @@
     "description": "A la flemme de le retourner tout le temps",
     "localisation": 1,
     "image": "",
-    "filiere": 16
+    "filiere": 47
   },
   {
     "id": 299,
     "nom": "Croix d'ankh à l'endroit (occipital gauche)",
     "categories": [18],
     "description": "Fillot/fillotte de",
-    "localisation": 1,
+    "localisation": 99,
     "image": "",
-    "filiere": 16
+    "filiere": 47
   },
   {
     "id": 300,
-    "nom": "Croix d'ankh couchée (partie personnelle)",
+    "nom": "Croix d'ankh couchée",
     "categories": [18],
     "description": "Parrain/marraine de",
-    "localisation": 1,
+    "localisation": 99,
     "image": "",
-    "filiere": 16
+    "filiere": 47
   },
   {
     "id": 301,
@@ -2706,7 +2706,7 @@
     "description": "A organisé le Challenge Inter-Écoles",
     "localisation": 3,
     "image": "",
-    "filiere": 16
+    "filiere": 47
   },
   {
     "id": 302,
@@ -2715,7 +2715,7 @@
     "description": "A participé au Challenge Inter-Écoles - Sur blanc et rouge pour extés",
     "localisation": 1,
     "image": "",
-    "filiere": 16
+    "filiere": 47
   },
   {
     "id": 303,
@@ -2724,7 +2724,7 @@
     "description": "Honoris Causae - A atteint Fourvière après son baptême à l'alcool",
     "localisation": 0,
     "image": "",
-    "filiere": 16
+    "filiere": 47
   },
   {
     "id": 304,
@@ -2733,7 +2733,7 @@
     "description": "Honoris Ratio - A atteint Fourvière les yeux bandés car Bacchus troué",
     "localisation": 0,
     "image": "",
-    "filiere": 16
+    "filiere": 47
   },
   {
     "id": 305,
@@ -2742,7 +2742,7 @@
     "description": "Amour de la plongée sous-marine",
     "localisation": 1,
     "image": "",
-    "filiere": 16
+    "filiere": 47
   },
   {
     "id": 306,
@@ -2751,25 +2751,25 @@
     "description": "Ordre des Poly Glottes - Sur velours gerbe",
     "localisation": 1,
     "image": "",
-    "filiere": 16
+    "filiere": 47
   },
   {
     "id": 307,
-    "nom": "Double palme après bac (Véto prépa intégrée)",
+    "nom": "Double palme après bac",
     "categories": [8, 12, 21],
     "description": "Double palme de diplôme directement après l'insigne du baccalauréat pour les prépas intégrées",
     "localisation": 1,
     "image": "",
-    "filiere": 17
+    "filiere": 11
   },
   {
     "id": 308,
-    "nom": "Deux doubles palmes (Véto)",
+    "nom": "Deux doubles palmes",
     "categories": [8, 12, 21],
     "description": "Pour les cursus ayant obtenu une licence ou un master en même temps que le concours vétérinaire",
     "localisation": 1,
     "image": "",
-    "filiere": 17
+    "filiere": 11
   },
   {
     "id": 309,
@@ -2778,7 +2778,7 @@
     "description": "Pour les étudiants de BTS/DUT ayant réalisé une prépa ATS avant leur concours",
     "localisation": 1,
     "image": "",
-    "filiere": 17
+    "filiere": 11
   },
   {
     "id": 310,
@@ -2787,16 +2787,16 @@
     "description": "Est incapable de comprendre les allusions sexuelles",
     "localisation": 1,
     "image": "",
-    "filiere": 17
+    "filiere": 11
   },
   {
     "id": 311,
-    "nom": "Poule (Véto)",
+    "nom": "Poule",
     "categories": [1, 8],
     "description": "Étudiante en école vétérinaire",
     "localisation": 1,
     "image": "",
-    "filiere": 17
+    "filiere": 11
   },
   {
     "id": 312,
@@ -2805,7 +2805,7 @@
     "description": "Nous ne sommes pas lourds. Nous sommes drôles et incompris (Honneur)",
     "localisation": 1,
     "image": "",
-    "filiere": 17
+    "filiere": 11
   },
   {
     "id": 313,
@@ -2814,6 +2814,24 @@
     "description": "Jack Mayol",
     "localisation": 1,
     "image": "",
-    "filiere": 17
+    "filiere": 11
+  },
+  {
+    "id": 314,
+    "nom": "Moule",
+    "categories": [0, 3, 16],
+    "description": "Vice-Président Étudiant - Une par année",
+    "localisation": 2,
+    "image": "",
+    "filiere": 40
+  },
+  {
+    "id": 315,
+    "nom": "Soleil",
+    "categories": [21],
+    "description": "Grand Maître ayant passé sa croix",
+    "localisation": 6,
+    "image": "",
+    "filiere": 40
   }
 ]

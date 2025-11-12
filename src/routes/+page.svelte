@@ -1,19 +1,26 @@
 <script lang="ts">
-    import insignes from "$lib/data/insignes.json";
+    import insignes from "$lib/data/insignes.json" with { type: 'json' };
     import type {Insigne} from "$lib/entity/Insigne.ts";
 
     import {Filiere, toStringFiliere} from "$lib/enum/Filiere.js";
     import {Categorie, toStringCategorie} from "$lib/enum/Categorie.js";
     import {Localisation, localisationToString} from "$lib/enum/Localisation.js";
+  import Sidebar from "$lib/components/Sidebar.svelte";
+  import FiltresInsigne from "$lib/components/FiltresInsigne.svelte";
+  import ListeInsigne from "$lib/components/ListeInsigne.svelte";
+  import ModalInsigne from "$lib/components/ModalInsigne.svelte";
 
     let hovered: Insigne | null = null;
+    let selectedInsigne: Insigne | null = null;
+    let showFilters = false;
 
-    let groupByLetter = false;
+    let groupByLetter = true;
     let selectedFiliere: Filiere | "all" = "all";
     let selectedCategorie: Categorie | "all" = "all";
     let selectedLocalisation: Localisation | "all" = "all";
     let sortBy: "nom" | "filiere" | "categorie" | "localisation" = "nom";
     let searchQuery = "";
+    let darkMode = false;
 
     $: filteredInsignes = insignes
         .filter(i => selectedFiliere === "all" || i.filiere === selectedFiliere)
@@ -46,162 +53,86 @@
         selectedLocalisation = "all";
         sortBy = "nom";
         searchQuery = "";
+        showFilters = false;
     }
 
     function truncate(text: string, max: number) {
         return text.length > max ? text.slice(0, max) + "…" : text;
     }
+
+    function openPopup(insigne: Insigne) {
+        selectedInsigne = insigne;
+    }
+
+    function closePopup() {
+        selectedInsigne = null;
+    }
 </script>
 
-<div class="flex flex-col h-screen bg-gray-50">
-    <header class="bg-white shadow-sm p-4 flex flex-wrap items-center gap-4 border-b border-gray-200 sticky top-0 z-10">
-        <h1 class="text-xl font-semibold flex-1">Insignes</h1>
+<svelte:window on:keydown={(e) => e.key === 'Escape' && closePopup()} />
 
-        <input
-                type="text"
-                placeholder="Rechercher..."
-                bind:value={searchQuery}
-                class="border border-gray-300 rounded-md px-3 py-2 text-sm focus:outline-none focus:ring-2 focus:ring-indigo-500 w-48 sm:w-64"
+    <div class="flex flex-col h-screen {darkMode ? 'bg-slate-900' : 'bg-slate-100'}">
+        <FiltresInsigne
+            {darkMode}
+            {showFilters}
+            bind:searchQuery
+            bind:groupByLetter
+            bind:selectedFiliere
+            bind:selectedCategorie
+            bind:selectedLocalisation
+            bind:sortBy
+            onResetFilters={resetFilters}
+            onToggleFilters={() => showFilters = !showFilters}
+            onToggleDarkMode={() => darkMode = !darkMode}
         />
 
-        <select bind:value={groupByLetter} class="border border-gray-300 rounded-md px-2 py-1 text-sm">
-            <option value={false}>Affichage simple</option>
-            <option value={true}>Regrouper par lettre</option>
-        </select>
-
-        <select
-                bind:value={selectedFiliere}
-                class="border border-gray-300 rounded-md px-2 py-1 text-sm max-w-[160px]"
-        >
-            <option value="all">Toutes Filières</option>
-            {#each Object.values(Filiere) as f (f)}
-                {#if typeof f === "number"}
-                    <option value={f}>
-                        {truncate(toStringFiliere(f), 20)}
-                    </option>
-                {/if}
-            {/each}
-        </select>
-
-        <select bind:value={selectedCategorie} class="border border-gray-300 rounded-md px-2 py-1 text-sm">
-            <option value="all">Toutes Catégories</option>
-            {#each Object.values(Categorie) as c (c)}
-                {#if typeof c === "number"}
-                    <option value={c}>{toStringCategorie(c)}</option>
-                {/if}
-            {/each}
-        </select>
-
-        <select bind:value={selectedLocalisation} class="border border-gray-300 rounded-md px-2 py-1 text-sm">
-            <option value="all">Toutes Localisations</option>
-            {#each Object.values(Localisation) as l (l)}
-                {#if typeof l === "number"}
-                    <option value={l}>{localisationToString(l)}</option>
-                {/if}
-            {/each}
-        </select>
-
-        <select bind:value={sortBy} class="border border-gray-300 rounded-md px-2 py-1 text-sm">
-            <option value="nom">Trier par Nom</option>
-            <option value="filiere">Trier par Filière</option>
-            <option value="categorie">Trier par Catégorie</option>
-            <option value="localisation">Trier par Localisation</option>
-        </select>
-
-        <button
-                on:click={resetFilters}
-                class="ml-2 px-3 py-2 text-sm bg-gray-100 hover:bg-gray-200 rounded-md border border-gray-300 transition"
-        >
-            Réinitialiser
-        </button>
-    </header>
-
     <main class="flex-1 flex overflow-hidden">
-        <aside class="w-80 bg-white border-l border-gray-200 p-5 overflow-y-auto hidden md:block">
-            {#if hovered}
-                <div class="animate-in fade-in slide-in-from-right-2">
-                    <div class="flex flex-col items-center text-center mb-4">
-                        {#if hovered.image}
-                            <img src={hovered.image} alt={hovered.nom} class="w-24 h-24 object-contain mb-3"/>
-                        {/if}
-                        <h2 class="text-lg font-semibold text-gray-800 mb-1">{hovered.nom}</h2>
-                        <p class="text-sm text-gray-600 italic">{hovered.description}</p>
-                    </div>
-
-                    <div class="text-sm text-gray-700 space-y-2">
-                        <p><span
-                                class="font-medium text-gray-900">Catégories :</span> {hovered.categories.map(toStringCategorie).join(", ")}
-                        </p>
-                        <p><span
-                                class="font-medium text-gray-900">Localisation :</span> {localisationToString(hovered.localisation)}
-                        </p>
-                        <p><span class="font-medium text-gray-900">Filière :</span> {toStringFiliere(hovered.filiere)}
-                        </p>
-                    </div>
-                </div>
-            {:else}
-                <div class="h-full flex items-center justify-center text-gray-400 italic text-sm text-center px-4">
-                    Survolez une insigne pour voir les détails
-                </div>
-            {/if}
-        </aside>
-
-        <div class="flex-1 overflow-y-auto p-6">
-            <div class="mb-6 flex items-center justify-between">
-                <span class="text-sm text-gray-600">{filteredInsignes.length} insigne(s) trouvée(s)</span>
-            </div>
-
-            {#if groupByLetter}
-                {#each Object.keys(groupedInsignes).sort() as letter}
-                    <h2 class="text-xl font-semibold text-gray-800 mt-10 mb-4 border-b border-gray-200 pb-1">{letter}</h2>
-
-                    <div class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6 xl:grid-cols-8 gap-6">
-                        {#each groupedInsignes[letter] as insigne}
-                            <button
-                                    type="button"
-                                    on:mouseenter={() => hovered = insigne}
-                                    on:mouseleave={() => hovered = null}
-                                    class="flex flex-col items-center bg-white rounded-2xl shadow-sm hover:shadow-md hover:-translate-y-1 transition-all p-4 cursor-pointer focus:outline-none"
-                            >
-                                {#if insigne.image}
-                                    <img src={insigne.image} alt={insigne.nom} class="w-16 h-16 object-contain mb-2"/>
-                                {:else}
-                                    <div class="w-16 h-16 flex items-center justify-center bg-gray-100 rounded-full mb-2 text-gray-500 font-medium">
-                                        {insigne.nom[0]}
-                                    </div>
-                                {/if}
-                                <span class="text-sm text-gray-700 font-medium text-center truncate w-full block"
-                                      title={insigne.nom}>
-                        {insigne.nom}
-                    </span>
-                            </button>
-                        {/each}
-                    </div>
-                {/each}
-            {:else}
-                <div class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-6 xl:grid-cols-8 gap-6">
-                    {#each filteredInsignes as insigne}
-                        <button
-                                type="button"
-                                on:mouseenter={() => hovered = insigne}
-                                on:mouseleave={() => hovered = null}
-                                class="flex flex-col items-center bg-white rounded-2xl shadow-sm hover:shadow-md hover:-translate-y-1 transition-all p-4 cursor-pointer focus:outline-none"
-                        >
-                            {#if insigne.image}
-                                <img src={insigne.image} alt={insigne.nom} class="w-16 h-16 object-contain mb-2"/>
-                            {:else}
-                                <div class="w-16 h-16 flex items-center justify-center bg-gray-100 rounded-full mb-2 text-gray-500 font-medium">
-                                    {insigne.nom[0]}
-                                </div>
-                            {/if}
-                            <span class="text-sm text-gray-700 font-medium text-center truncate w-full block"
-                                  title={insigne.nom}>
-                    {insigne.nom}
-                </span>
-                        </button>
-                    {/each}
-                </div>
-            {/if}
-        </div>
+        <Sidebar {hovered} {darkMode} />
+        
+        <!-- Liste des insignes -->
+        <ListeInsigne
+            {darkMode}
+            {groupByLetter}
+            {filteredInsignes}
+            {groupedInsignes}
+            onHover={(insigne) => hovered = insigne}
+            onOpenPopup={openPopup}
+        />
     </main>
 </div>
+
+{#if selectedInsigne}
+    <ModalInsigne
+        {darkMode}
+        {selectedInsigne}
+        on:close={closePopup}
+    />
+{/if}
+
+<style>
+    @keyframes fade-in {
+        from {
+            opacity: 0;
+        }
+        to {
+            opacity: 1;
+        }
+    }
+
+    @keyframes slide-up {
+        from {
+            transform: translateY(100%);
+        }
+        to {
+            transform: translateY(0);
+        }
+    }
+
+    .animate-fade-in {
+        animation: fade-in 0.2s ease-out;
+    }
+
+    .animate-slide-up {
+        animation: slide-up 0.3s ease-out;
+    }
+</style>
